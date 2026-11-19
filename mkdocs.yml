@@ -10,7 +10,6 @@ docs_dir: docs
 theme:
   name: material
   language: en
-  custom_dir: null
   logo: assets/images/templar-sigil.svg
   favicon: assets/images/templar-sigil.svg
   palette:
