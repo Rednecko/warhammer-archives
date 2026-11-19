@@ -109,3 +109,94 @@ body { background:
  .archive-metric span { font-size:.5rem; }
  .archive-cta { font-size:.56rem; padding:.74rem .78rem; }
 }
+
+
+/* Numbered, nested encyclopedia contents. */
+.md-typeset .codex-toc {
+  margin: 1rem 0 1.8rem;
+  padding: 1rem 1.3rem;
+  border: 1px solid #665139;
+  border-top: 2px solid #b58b55;
+  border-radius: 3px;
+  background: linear-gradient(135deg, #222321, #171a1b);
+}
+.md-typeset .codex-toc ol {
+  counter-reset: codex-entry;
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+.md-typeset .codex-toc ol ol {
+  margin: .2rem 0 .65rem .85rem;
+  padding-left: .95rem;
+  border-left: 1px solid #5e4b37;
+}
+.md-typeset .codex-toc li {
+  counter-increment: codex-entry;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.md-typeset .codex-toc li > a {
+  display: grid;
+  grid-template-columns: 2.3rem minmax(0, 1fr);
+  align-items: baseline;
+  gap: .5rem;
+  border-bottom: 1px solid rgba(183,148,105,.11);
+  padding: .42rem .35rem;
+  color: #dfd3c2;
+  text-decoration: none;
+  font-size: .75rem;
+  line-height: 1.55;
+}
+.md-typeset .codex-toc ol ol li > a {
+  grid-template-columns: 2.8rem minmax(0, 1fr);
+  font-size: .68rem;
+  color: #bab8b0;
+}
+.md-typeset .codex-toc li > a::before {
+  content: counters(codex-entry, ".") ".";
+  display: block;
+  color: #d2ae78;
+  font-family: 'Inter', 'Segoe UI', sans-serif;
+  font-size: .66rem;
+  font-weight: 800;
+  font-variant-numeric: tabular-nums;
+}
+.md-typeset .codex-toc li > a:hover {
+  color: #ffe0ae;
+  background: rgba(183, 137, 78, .11);
+}
+.md-typeset .codex-toc li > a:hover::before {
+  color: #ffdb9f;
+}
+
+/* Keep the army's name in the top tab, not repeated as a desktop left-sidebar title. */
+@media screen and (min-width: 76.25em) {
+  .md-sidebar--primary .md-nav--primary > .md-nav__title {
+    display: none;
+  }
+  .md-sidebar--primary .md-nav--primary > .md-nav__list {
+    padding-top: .3rem;
+  }
+}
+.md-sidebar--primary .md-nav__item--nested > .md-nav__link {
+  font-weight: 650;
+  color: #dbc7ac;
+}
+.md-sidebar--primary .md-nav__item--nested > .md-nav__list,
+.md-sidebar--primary .md-nav__item--nested > .md-nav > .md-nav__list {
+  border-left: 1px solid rgba(179, 140, 87, .31);
+  margin-left: .55rem;
+  padding-left: .5rem;
+}
+.md-tabs__item--active .md-tabs__link {
+  color: #f2d3a0;
+  font-weight: 700;
+}
+@media (max-width: 620px) {
+  .md-typeset .codex-toc { padding: .8rem .6rem; }
+  .md-typeset .codex-toc ol ol { margin-left: .35rem; padding-left: .5rem; }
+  .md-typeset .codex-toc li > a { gap: .25rem; font-size: .7rem; grid-template-columns: 1.8rem minmax(0,1fr); }
+  .md-typeset .codex-toc ol ol li > a { grid-template-columns: 2.5rem minmax(0,1fr); font-size: .64rem; }
+}
