@@ -1,78 +1,106 @@
-# The founding of the Sons of Sigismund
+# Chapter Origins
 
-<div class="archive-page-label">Historia · Armageddon · Before the first crusade</div>
+<div class="archive-page-label">Sons of Sigismund · From Sword Brother to founding Marshal</div>
 
-<span class="archive-status">Agreed narrative scaffold</span> <span class="archive-status open">Names, dates and final dialogue open</span>
+<span class="archive-status">Founding scaffold established</span> <span class="archive-status open">Names, personal origins and dates pending</span>
 
-**The Sons of Sigismund were born not from a petition for command, but from the deeds of a Sword Brother who taught others how to stand when hope seemed lost.** The campaign belongs to the founder's life *before* he became a Marshal; the new order's recorded battles have yet to begin.
+The Sons of Sigismund were not created through a numbered Founding of Space Marine Chapters. They are a **newly commissioned crusading household within the Black Templars**, created by High Marshal Helbrecht after the extraordinary conduct of a veteran Sword Brother during the defense of Armageddon.
+
+**This article ends before the order's first post-founding deployment.** The Marshal's earlier battles belong to his personal history; the Sons of Sigismund have not yet fought a recorded battle under their new name.
+
+| Origins reference | Established answer or open question |
+|---|---|
+| **Reason for founding** | Continue the Eternal Crusade while recovering and preserving Imperial relics and using the memory of sacrifice to sustain the faithful |
+| **Date of founding** | During the era of Helbrecht's command, following the pre-commission Armageddon campaign; exact date still open |
+| **Progenitor and lineage** | Black Templars; primarch lineage from Rogal Dorn through the Imperial Fists |
+| **Gene-seed** | Inherits Black Templars/Imperial Fists lineage; no unusual, separate purity characteristic established for the household |
+| **Demeanor** | Close-knit, martial, traditionalist; a Marshal who leads personally and speaks with force when it matters |
+| **Defining flaw** | Not yet established; do not create one simply because a generic Chapter template requests it |
 
 <div class="archive-steps">
-  <div class="archive-step"><h3>I · The front falters</h3><p>A veteran Sword Brother serves on Armageddon while defenders face a widening Ork assault and a collapse of morale.</p></div>
-  <div class="archive-step"><h3>II · The standard is raised</h3><p>He recovers an ancient battle standard and a relic sword, then rallies a threatened position.</p></div>
-  <div class="archive-step"><h3>III · The brothers carry the flame</h3><p>Initiates, Neophytes, officers and ordinary Imperial soldiers spread the message across the front over weeks or months.</p></div>
-  <div class="archive-step"><h3>IV · The Warboss answers</h3><p>After deliberate provocation and the defeat of subordinate bosses, a regional Warboss accepts a public challenge.</p></div>
-  <div class="archive-step"><h3>V · The sector is reclaimed</h3><p>The Sword Brother wins a difficult duel. Imperial forces sustain a counterattack and secure a regional victory—not the entire planet.</p></div>
-  <div class="archive-step"><h3>VI · Helbrecht calls</h3><p>The High Marshal summons the Sword Brother, offers him command and commissions the Sons of Sigismund.</p></div>
+  <div class="archive-step"><h3>I · The Sword Brother</h3><p>His upbringing, service, mentorship and character before the defining Armageddon campaign.</p></div>
+  <div class="archive-step"><h3>II · The Campaign of Armageddon</h3><p>The relics, repeated rallies, the Warboss's challenge and the Imperial regional counteroffensive.</p></div>
+  <div class="archive-step"><h3>III · The Summons and the Writ of Crusade</h3><p>Helbrecht's recognition and commission, the new household's purpose, its ship and first muster.</p></div>
 </div>
 
-## I. A Sword Brother amid a broken defense
+## I. The Sword Brother — Before Armageddon
 
-The future Marshal is already a decorated, capable veteran of the Black Templars: a formidable swordsman, disciplined strategist, mentor and battlefield leader. He does not yet command a separate household. With him serve Initiates and Neophytes, whose presence is central to the story.
+Long before the Sons of Sigismund existed, their future Marshal served the **Black Templars** as a veteran **Sword Brother**. By the time of the Armageddon campaign, he was a distinguished warrior of long service: a master swordsman, capable strategist, respected mentor and experienced frontline leader.
 
-Across a threatened sector of **Armageddon**, human trenches, fortifications and defensive positions suffer under the momentum of an Ork offensive. Units lose ground and confidence. The crisis does not begin as the solitary problem of one hero; it is a war being fought by numerous regiments, officers, priests and defenders.
+His personality is profoundly shaped by **Sigismund's example**. He is a severe traditionalist whose faith, discipline, sworn duty and martial standards are evident in both life and battle. His command does not depend upon distance or ceremony. He prefers to share hardship with the warriors under him, and he will later retain that habit as Marshal of a small, close-knit household.
 
-## II. The two recovered relics
+Ordinarily reserved and measured in speech, he possesses an unusual ability to speak with **explosive conviction** when a decisive appeal is needed. That quality becomes central to the Armageddon campaign, but it need not mean he has always been an enthusiastic public speaker. His humility is equally important: he does not seek a new office, and his later recognition comes through the testimony of those who served with him.
 
-During this campaign, the Sword Brother recovers **an ancient battle standard** and **a historically significant relic sword**. Their actual origins and names have not been determined. They need not be miraculous weapons: what matters is what they represent.
+**His actual upbringing still needs to be written.** His birth or recruitment world, early mentors, first crusading force, career as an Initiate, promotion into the Sword Brethren and the personal experiences that formed these convictions remain **open**. These are subjects for future development, not events to invent retroactively.
 
-He raises the standard at a desperate position and speaks to the defenders. His exhortation is not a single world-saving moment. It is the **first** rally—a spark that must be carried much farther if the front is to survive.
+The founding Sword Brother may already have several Initiates and Neophytes under his mentorship during the campaigns before his commission. The identities of the companions who first came with him to Armageddon have not been fixed.
 
-## III. Brothers, voices and weeks of war
+## II. The Defining Armageddon Campaign
 
-The Sword Brother's accompanying Initiates see that example matters as much as command. With Neophytes helping to carry messages, learn and sustain communications, they travel among other threatened Imperial positions. Officers, priests, vox crews and Guardsmen amplify what begins at the standard.
+### The weakening of the Imperial line
 
-The founder himself moves through the defenses, leads attacks, teaches and delivers further speeches. The work lasts **weeks or months**. He is becoming an extraordinary orator, but his greatest achievement is that defenders begin to find courage and leadership **even when he is not present**.
+The future Marshal fights on **Armageddon** while human defenses face a severe Ork offensive. Imperial trench networks, fortifications and local commanders are losing ground, and in some places the defenders' resolve is failing. The campaign is fought by many Imperial formations, not by a lone Astartes.
 
-The imperial war effort is not reduced to a backdrop for a Space Marine legend. The soldiers doing the fighting and the officers who coordinate the lines deserve their own part in the victory.
+### The sword and the standard
 
-## IV. A challenge designed to be witnessed
+At a desperate stage, the Sword Brother recovers **two historically significant relics**: an ancient battle standard and a relic sword. Their formal names, provenance and specific recovery circumstances remain open. Their importance is chiefly **historical and symbolic**; no extraordinary supernatural properties have been asserted.
 
-The Sword Brother and Imperial officers identify a significant **local Ork Warboss**. The Warboss is an original, yet-unnamed figure—not Ghazghkull or another pre-existing named character.
+He raises the standard and delivers a fierce exhortation that rallies an endangered Imperial position. **That is the beginning of the campaign's change, not an instantaneous victory.**
 
-Rather than waiting for chance, the Sword Brother defeats lesser Ork bosses and deliberately develops a reputation that provokes the Warboss. By shaping the campaign over several weeks, he and his comrades aim to draw the enemy into an **open, visible battlefield**.
+### A message carried by many
 
-The confrontation is both **calculated trap** and **open challenge**. The Warboss is given every reason to demonstrate his own supremacy before his horde. The Imperials need not merely win; they need their defenders to *see* that the enemy can be beaten.
+Over **weeks or months**, the Sword Brother continues to move through the threatened network, leading assaults, speaking to defenders and helping Imperial officers restore their forces' ability to resist. The **Initiates** who accompany him learn that a warrior can inspire more than those immediately at his side. With **Neophytes** helping to relay messages and provide support, they travel to other positions and assist the wider effort.
 
-## V. The duel and the counteroffensive
+Officers, priests, vox crews and Guardsmen themselves carry the message still farther. The key lesson of the campaign is not that every soldier must hear the Sword Brother's voice; it is that **others begin to rally their comrades without him**.
 
-With the ancient standard prominently displayed and the relic sword in hand, the Sword Brother faces the Warboss. The duel is hard-fought and its outcome is witnessed by the surrounding fighters. He defeats and kills the Ork leader.
+### Drawing out the Warboss
 
-That act disrupts the enemy's leadership and offers Imperial defenders a surge of resolve. **It does not end the war in one stroke.** Only through the ensuing sustained Imperial counteroffensive does the sector see a meaningful regional victory. The wider war on Armageddon continues.
+The Sword Brother and cooperating Imperial officers identify a **significant regional Ork Warboss**: an original, still-unnamed enemy rather than a pre-existing named canonical figure. Over several weeks, the Sword Brother defeats lesser Ork bosses and cultivates the reputation necessary to draw out the Warboss.
 
-The recovered standard and sword become symbols of more than the duel: they have witnessed ordinary soldiers regaining the will to fight.
+The challenge is intentional. He and his comrades seek an **open, highly visible battlefield**, combining a calculated operational trap with a public confrontation the Warboss will find difficult to refuse.
 
-## VI. The summons of High Marshal Helbrecht
+### The duel and the counteroffensive
 
-The veteran does not seek recognition or ask permission to found an order. Reports and eyewitness accounts instead reach **High Marshal Helbrecht**. The High Marshal summons him privately to understand the victories and their unusual spiritual and military effect.
+At the decisive meeting, the ancient banner is prominently displayed and the Sword Brother carries the recovered relic sword. Before Imperial and Ork combatants, he defeats the Warboss in a **difficult personal duel**.
 
-The Sword Brother credits his brothers, Imperial officers and defenders, rather than claiming to have saved the sector alone. He explains, in substance, that the relics make the Imperium's sacrifice visible and can inspire the faithful to endure.
+The Warboss's death disrupts local Ork leadership and gives Imperial defenders an extraordinary surge in morale. **It does not win the war by itself.** Imperial commanders and troops exploit the moment in a sustained counteroffensive and recover a **significant regional sector**. Armageddon's wider conflict continues.
 
-Helbrecht sees in him not only a master swordsman, but the judgment, humility, strategic discipline and power to lead that a Marshal requires. **Helbrecht offers the commission.** A later public ceremony formally establishes the **Sons of Sigismund** as a distinct household *within* the Black Templars.
+The founder's companions, human officers and ordinary defenders are essential participants in the victory. It is precisely the combination of **swordsmanship, deliberate strategy, humility, instruction and inspiration** that eventually brings this campaign to Helbrecht's attention.
 
-## VII. A cruiser and a first muster
+The precise sequence of the campaign's individual engagements, battles, Ork leaders and Imperial units will be developed here later. These are **pre-commission narrative battles**—not invented post-founding tabletop wins.
 
-The existing strike cruiser ***The Righteous Crusader*** is assigned and refitted in or near the theater to become a mobile fortress-monastery and reliquary. The founding command includes the newly elevated Marshal, an Emperor's Champion, the original Chaplain and **ten permanent Sword Brethren**. Two Crusader Squads initially fight under attachment rather than permanent household oaths.
+## III. The Summons and the Writ of Crusade
 
-The founder's surviving companions form much of the veteran core. A smaller number of other Black Templars are appointed or transferred through the new commission.
+*“Writ of Crusade” is a **working title** for the formal founding decree, not yet a ratified in-universe document name.*
 
-## VIII. A future unwritten
+### Summoned before the High Marshal
 
-The Sons of Sigismund are ready to carry their relics and oaths into **their own first crusade on Armageddon**. At this point their post-founding battle log is empty.
+The veteran does **not** petition for promotion or ask for a new command. Reports from the campaign and testimony of Imperial defenders reach **High Marshal Helbrecht**, who summons the Sword Brother privately and questions his methods and motivations.
 
-<div class="archive-strip"><strong>Continuity rule:</strong> The Sword Brother's public Warboss victory happened before his elevation and is not recorded as the new household's first game. Every subsequent battle will be added only as the tabletop campaign develops.</div>
+The Sword Brother gives credit to his comrades and the Imperial forces whose sacrifices won the sector. He explains the significance of **preserving and carrying relics**: material reminders of Imperial memory that can encourage the living to endure and fight.
 
-## Matters deliberately left open
+Helbrecht recognizes a warrior capable of martial command, measured strategy, mentorship and exceptional spiritual leadership. **It is Helbrecht who offers him the position of Marshal.**
 
-The Sword Brother's name, the Warboss's name, dates, sector, speech wording, final ceremonial dialogue, individual founding companions and the sword and standard's provenance all await later development. Earlier draft speeches exist in the source archive but **are not approved dialogue**.
+### The founding writ and public commission
 
-[Meet the founding Marshal →](../characters/founding-marshal.md) · [View the cadre →](../organization/founding-cadre.md) · [Explore Armageddon records →](../campaigns/armageddon.md)
+At a later formal ceremony, Helbrecht commissions the **Sons of Sigismund**, a distinct Black Templars crusading household still subject to the High Marshal. Their mandate is to **prosecute the Eternal Crusade**, recover and authenticate endangered Imperial relics, safeguard archives and sacred sites, and bring the histories of the faithful into the field when they can inspire resistance.
+
+The recovered **sword and standard** become the first relics entrusted to the new household. The exact wording and ceremonial details of the founding decree are not yet written.
+
+### The cruiser and first muster
+
+An existing Black Templars strike cruiser, ***The Righteous Crusader***, is assigned and refitted **in or near the Armageddon theater**. Its purpose is to serve as the household's **mobile fortress-monastery, fighting ship and reliquary**, with protected archives, artifact examination facilities, quarters and the logistics required for independent missions or support to other Black Templars forces. Its complete interior architecture belongs in the [separate flagship section](../fleet/righteous-crusader.md), not this origins history.
+
+The first permanent founding group consists of the **Marshal, one Emperor's Champion, an original Chaplain and ten Sword Brethren**. Of those Sword Brethren, **six** form the Marshal's honor guard, **two** serve alongside the first Crusader Squad, **one** holds the role of household duelist (distinct from the Emperor's Champion), and **one** is reserved for a later squad. Most of the ten are former campaign companions; a few were transferred from other Black Templars forces. The honor guard includes veterans of both origins.
+
+**Two Crusader Squads** are initially attached to his command without their members having sworn permanent allegiance. The order may later welcome other Black Templars who volunteer, transfer or serve temporarily; its first strength is **not** the older proposed sixty-warrior household.
+
+### Before the first deployment
+
+With the commission given, the cruiser prepared, and the founding force assembled, the Sons of Sigismund are ready for their first mission in the continuing Armageddon war.
+
+**Chapter Origins ends here. The household has fought no post-founding battle.**
+
+<div class="archive-strip"><strong>Continuity boundary:</strong> The regional Warboss's defeat happened before Helbrecht's commission. No first-crusade result, casualty, promotion or relic discovery has been established after the founding.</div>
+
+[Founding Marshal profile →](../characters/founding-marshal.md) · [The original muster →](../organization/founding-cadre.md) · [The Righteous Crusader →](../fleet/righteous-crusader.md) · [Campaign chronicle →](../campaigns/index.md)
