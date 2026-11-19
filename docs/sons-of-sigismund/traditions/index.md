@@ -47,6 +47,6 @@ Sword Brethren may be entrusted with individual artifacts and charged to study a
 The Hall of Vigil is the ship's working memorial and mourning space. A fallen brother may lie in state while his relics are recovered and their stewardship documented. Further rites—including proposed prayers and final disposition of remains—are still under development.
 
 <div class="archive-grid two">
-  <a class="archive-card" href="heraldry/"><span class="card-index">Battle dress</span><span class="card-title">Heraldry & yellow honors</span><span class="card-copy">The right to yellow belongs to Sword Brethren, but it is never compulsory.</span><span class="card-arrow">↗</span></a>
+  <a class="archive-card" href="../organization/heraldry/"><span class="card-index">Battle dress</span><span class="card-title">Heraldry & yellow honors</span><span class="card-copy">The right to yellow belongs to Sword Brethren, but it is never compulsory.</span><span class="card-arrow">↗</span></a>
   <a class="archive-card" href="../relics/custodianship/"><span class="card-index">Sacred heritage</span><span class="card-title">Oaths of custodianship</span><span class="card-copy">How the order remembers, studies and protects entrusted artifacts.</span><span class="card-arrow">↗</span></a>
 </div>
