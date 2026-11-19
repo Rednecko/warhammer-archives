@@ -222,3 +222,12 @@ body { background:
   .org-connector { height:15px; }
   .org-node strong { font-size:.81rem; }
 }
+
+/* Compact two-formation chapter organization schematic. */
+.org-companies { max-width: 48rem; position: relative; }
+.org-companies .org-node { border-color:#846843; }
+.org-node-link { display:inline-block; margin-top:.6rem; font-size:.6rem; font-weight:750; color:#e9bf84!important; text-decoration:none!important; letter-spacing:.035em; }
+.org-node-link:hover { color:#ffe5bd!important; text-decoration:underline!important; }
+.org-chart-foot { max-width:48rem; margin:.8rem auto 0; padding:.66rem .85rem; text-align:center; font-size:.61rem; line-height:1.65; color:#c9bca9; background:#181b1c; border:1px dashed #66543b; }
+.org-chart-foot strong { color:#e4c491; }
+@media(max-width:620px) { .org-companies { grid-template-columns:1fr; } .org-chart-foot { font-size:.59rem; } }
