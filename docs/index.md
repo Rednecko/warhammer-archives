@@ -1,7 +1,7 @@
 <div class="archive-hero">
   <div class="hero-text">
     <span class="archive-kicker">An unofficial Warhammer 40,000 chronicle</span>
-    <h1>WARHAMMER<br>ARCHIVES</h1>
+    <h1>WILLIAMS<br>WARHAMMER LORE</h1>
     <div class="archive-rule"></div>
     <p>Armies are more than lists of units. Here, their <strong>oaths, warriors, relics, warships and battles</strong> become a living record—written alongside the actual collection and the games that follow.</p>
     <a class="archive-cta" href="sons-of-sigismund/">Enter the first archive</a>
