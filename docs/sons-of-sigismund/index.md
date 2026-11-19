@@ -42,7 +42,7 @@ The **Sons of Sigismund** are a homebrew **Black Templars crusading household** 
 ## Contents
 
 <div class="codex-toc" id="contents">
-  <a href="#history-and-origins"><b>01</b><span>History and origins</span></a>
+  <a href="#chapter-origins"><b>01</b><span>Chapter Origins</span></a>
   <a href="#order-organisation"><b>02</b><span>Order organisation</span></a>
   <a href="#recruitment-and-allegiance"><b>03</b><span>Recruitment and allegiance</span></a>
   <a href="#names-and-honours"><b>04</b><span>Names and honours</span></a>
@@ -60,33 +60,31 @@ The **Sons of Sigismund** are a homebrew **Black Templars crusading household** 
   <a href="#sources-and-editorial-status"><b>16</b><span>Sources and editorial status</span></a>
 </div>
 
-## History and origins
+## Chapter Origins
 
-### Before the founding: the Armageddon campaign
+The origins of the Sons of Sigismund are recorded in **three connected stages**. The story ends with the commission, refit and initial muster—**before the household's first deployment**.
 
-The future founder was a highly decorated **Black Templars Sword Brother** fighting amid a severe Ork offensive on **Armageddon**. He recovered two significant relics—an ancient battle standard and a historical sword—and raised the standard at a defensive position where Imperial troops had begun to despair.
+### I. The Sword Brother — Before Armageddon
 
-The resulting rally was not a miraculous, single-speech victory. Alongside his **Initiates and Neophytes**, he moved through the contested defensive network over weeks or months. Officers, Chaplains, priests, vox operators and ordinary Guardsmen helped the message spread. Imperial troops learned to sustain and inspire one another even when the Sword Brother was absent.
+Before he became a Marshal, the founder was a veteran **Black Templars Sword Brother**: a fearless master swordsman, respected mentor, skilled strategist and severe traditionalist inspired by Sigismund. He preferred to lead from the front and could speak with exceptional force when the moment demanded it.
 
-With Imperial officers he deliberately challenged a significant **regional Ork Warboss**, defeating lesser leaders and drawing the Warboss toward an open battlefield where the resulting confrontation could be seen. The Sword Brother slew the enemy with his recovered sword in a difficult public duel, with the old standard on display. The death disrupted local Ork command and helped inspire a prolonged Imperial counteroffensive that reclaimed a meaningful sector. **Armageddon's wider war did not end.**
+His actual **upbringing, original recruitment world, early mentors and promotion into the Sword Brethren remain open**. These will be developed as part of his character's story, rather than invented to fill a generic Chapter template.
 
-### Helbrecht's commission
+### II. The Defining Armageddon Campaign
 
-Reports of the Sword Brother's courage, judgment, humility and ability to inspire reached **High Marshal Helbrecht**. He was summoned to a private audience; he did **not** petition for a title or his own crusade. Helbrecht recognized the value of a commander who could combine martial skill and the recovery of Imperial memory with the leadership of others.
+During an Ork offensive on **Armageddon**, the Sword Brother recovered a historic relic sword and ancient battle standard, using the latter to rally a failing defensive position. Over weeks or months, he and his accompanying Initiates and Neophytes worked with Imperial officers, priests, vox crews and Guardsmen to spread that resolve across the battle lines.
 
-Helbrecht **offered him a Marshal's commission** and formally established the **Sons of Sigismund** as a distinct household of Black Templars, with relic custodianship added to their duty in the Eternal Crusade.
+He deliberately provoked a significant **original regional Ork Warboss** and challenged him on a visible battlefield. His victory in a hard-fought duel disrupted Ork command and enabled Imperial troops to reclaim a meaningful sector through a **sustained counteroffensive**. The planetary war continued. These deeds belong to the founder's **pre-commission** history.
 
-### Establishing the first force
+### III. The Summons and the Writ of Crusade
 
-The existing strike cruiser ***The Righteous Crusader*** was assigned and refitted in or near the Armageddon theater, equipped to sustain a fighting brotherhood and to store, examine and protect recovered relics. The new Marshal was supported by an Emperor's Champion, a founding Chaplain, **ten permanent Sword Brethren** and **two temporarily attached Crusader Squads**.
+**High Marshal Helbrecht** summoned the Sword Brother after receiving reports of the campaign and, recognizing his martial, strategic and spiritual qualities, **offered him a Marshal's commission**. A formal ceremony established the Sons of Sigismund as a Black Templars crusading household tasked with the Eternal Crusade and the protection of endangered Imperial relics and memory. **“Writ of Crusade” is a proposed name** for the founding decree, not yet finalized.
 
-### First crusade
-
-The order's first assignment is in the continuing **Armageddon** conflict. **No post-founding battle outcome, casualty, newly recovered relic or campaign honor has been recorded.**
+The existing strike cruiser ***The Righteous Crusader*** was assigned and refitted to serve as a **mobile fortress-monastery and reliquary**; its interior is documented in the separate [flagship section](fleet/righteous-crusader.md). The new Marshal mustered an **Emperor's Champion, founding Chaplain, ten permanent Sword Brethren and two attached Crusader Squads**. Their first deployment and any post-founding battles remain unwritten.
 
 <div class="archive-grid two">
-  <a class="archive-card" href="history/founding/"><span class="card-index">Full history</span><span class="card-title">The Armageddon founding</span><span class="card-copy">The banner, the sword, the Warboss's challenge and the High Marshal's decision.</span><span class="card-arrow">↗</span></a>
-  <a class="archive-card" href="history/founding/#chapter-origins-six-part-record"><span class="card-index">Six-part audit</span><span class="card-title">The founding questions</span><span class="card-copy">Reason, date, progenitor, gene-seed, demeanor and defining flaw.</span><span class="card-arrow">↗</span></a>
+  <a class="archive-card" href="history/founding/"><span class="card-index">Full origins</span><span class="card-title">Chapter Origins</span><span class="card-copy">The Sword Brother, the Armageddon campaign, and Helbrecht's Writ of Crusade.</span><span class="card-arrow">↗</span></a>
+  <a class="archive-card" href="history/founding/"><span class="card-index">Origins reference</span><span class="card-title">Six founding questions</span><span class="card-copy">Reason, date, lineage, gene-seed, demeanor and flaw tracked without inventing unknown answers.</span><span class="card-arrow">↗</span></a>
 </div>
 
 ## Order organisation
