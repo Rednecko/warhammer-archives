@@ -4,7 +4,7 @@
 
 The complete historical muster of the Sons of Sigismund—including **who was appointed at founding, the ten original Sword Brethren's assignments, and the two initially attached Crusader Squads**—has been consolidated into the last part of **Chapter Origins**.
 
-<a class="archive-cta" href="../history/founding/#the-cruiser-and-first-muster">Read the founding muster in Chapter Origins</a>
+<a class="archive-cta" href="../../history/founding/#the-cruiser-and-first-muster">Read the founding muster in Chapter Origins</a>
 
 This former page is retained as a link for older bookmarks. It is **not** a second personnel roster or an organizational rank chart.
 
