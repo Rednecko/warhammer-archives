@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="500" viewBox="0 0 440 500" role="img" aria-label="Stylized Templar cross within a gothic shield">
+  <defs>
+    <linearGradient id="metal" x1="0" x2="1" y2="1"><stop stop-color="#f5ddb1"/><stop offset=".38" stop-color="#ad824b"/><stop offset=".73" stop-color="#e2b975"/><stop offset="1" stop-color="#694824"/></linearGradient>
+    <linearGradient id="shade" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#2c2723"/><stop offset="1" stop-color="#0c1011"/></linearGradient>
+  </defs>
+  <path d="M220 16C295 58 352 52 395 70V235C395 346 309 433 220 483 131 433 45 346 45 235V70C88 52 145 58 220 16Z" fill="url(#shade)" stroke="url(#metal)" stroke-width="8"/>
+  <path d="M220 32C288 69 343 71 378 85V232C378 334 304 414 220 464 136 414 62 334 62 232V85C97 71 152 69 220 32Z" fill="none" stroke="#927147" stroke-width="2" opacity=".8"/>
+  <g stroke="#b18b56" stroke-width="2" opacity=".65" fill="none">
+    <path d="M94 122v214M346 122v214"/>
+    <path d="M105 124c17-14 29-25 35-41M335 124c-17-14-29-25-35-41"/>
+    <path d="M90 351c28 42 50 59 85 78M350 351c-28 42-50 59-85 78"/>
+  </g>
+  <path d="M190 108 164 160 121 141 140 185 96 215 140 245 121 291 165 272 190 327 220 298 250 327 275 272 319 291 300 245 344 215 300 185 319 141 276 160 250 108 220 144Z" fill="url(#metal)" stroke="#f1d5a0" stroke-width="3"/>
+  <path d="M220 155 190 121 172 172 128 153 151 194 110 215 151 235 128 279 172 257 190 310 220 276 250 310 268 257 312 279 289 235 330 215 289 194 312 153 268 172 250 121Z" fill="#141719"/>
+  <path d="M220 143V318M173 215H268" stroke="#d9b57b" stroke-width="4" opacity=".7"/>
+  <path d="M157 370H283" stroke="#aa8352" stroke-width="2"/>
+  <path d="M174 385H266" stroke="#aa8352" stroke-width="1"/>
+  <path d="M220 361l9 13-9 13-9-13Z" fill="#b9955e"/>
+  <path d="M150 75Q220 45 290 75" fill="none" stroke="#b9955e" stroke-width="2"/>
+</svg>
