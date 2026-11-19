@@ -4,7 +4,7 @@
 
 <span class="archive-status">Second founding squad attachment established</span> <span class="archive-status open">Leadership and individual roster open</span>
 
-The **Second Crusading Squad** is the **second attached Black Templars Crusader Squad** at the order's founding. Like its counterpart, it is a **small formation intended for roughly 10–30 Space Marines**, not a full Fighting Company. The range is a **working scale**, not its documented current headcount.
+The **Second Crusading Squad** is the **second attached Black Templars Crusader Squad** at the order's founding. Like its counterpart, it is a **small formation intended for roughly 10–30 Space Marines**, not a large standing formation. The range is a **working scale**, not its documented current headcount.
 
 ## Personnel register
 
