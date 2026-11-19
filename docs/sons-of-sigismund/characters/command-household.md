@@ -1,40 +1,32 @@
-# Command and household
+# Command Household — Character Dossiers
 
-<div class="archive-page-label">People · Founding appointments</div>
+<div class="archive-page-label">Personae · Individuals, not a rank chart</div>
 
-The founding order is a **small, close-knit command**, not the staff of a full independent Chapter. Personal relationships and oaths are important, but the exact names and biographies of its officers remain unwritten.
+This is a collection of **personal profiles and relationships**. It does not repeat the full historical muster or explain the Black Templars command ladder. Those belong, respectively, in [Chapter Origins](../history/founding.md#the-cruiser-and-first-muster) and [Order Organisation](../organization/chain-of-command.md).
 
-| Office | At founding | What is established |
-|---|---:|---|
-| Marshal | 1 | Former veteran Sword Brother; frontline commander and compelling orator |
-| Emperor's Champion | 1 | Distinct founding role; individual identity open |
-| Founding Chaplain | 1 | Original spiritual officer; personal history open |
-| Sword Brethren | 10 | Permanent veteran cadre, including six honor guards |
-| Attached Crusader Squads | 2 | Not yet permanently sworn to the household |
+## The Founding Marshal
 
-## The Marshal
+His established character direction is stern and Sigismund-inspired, an extraordinary swordsman and a frontline commander known for rare, powerful exhortations. He values the work of his brotherhood and Imperial defenders; his personal upbringing and disciplinary philosophy remain open.
 
-The Marshal exercises military command and leads the brotherhood from the front, carrying the founding relic sword. He is a severe traditionalist who admires Sigismund's discipline and faith, but fights repeatedly alongside the same warriors and knows their deeds.
-
-[Read his working profile →](founding-marshal.md)
+[Read the Marshal's biography →](founding-marshal.md)
 
 ## The Emperor's Champion
 
-The founding force includes **one Emperor's Champion**. His name, prior service, personal relationship with the Marshal and how he came to bear the office are open. He is not to be confused with the separately designated **household duelist**, who remains one of the ten Sword Brethren.
+A sacred champion is present in the founding household. **His name, previous service, vision, investiture and personal relationships remain open.** He is distinct from the separately designated Sword Brother who serves as the household duelist.
 
-## The Chaplain
+## The Founding Chaplain
 
-An original Chaplain serves from the outset. Earlier design discussions envision a formidable **High Chaplain in Terminator armor**: a frontline spiritual leader responsible for oaths, devotional life, warrior discipline and the order's rites of relic custodianship. Whether that complete profile belongs to the founding Chaplain is not yet finalized.
+The founding Chaplain's identity and personal history are not established. A **High Chaplain in Terminator armor** has been considered as a future character concept; it is not yet confirmed to describe the original Chaplain.
 
-## The Castellan
+## The Marshal's Companions
 
-A Castellan's place in the longer-term command structure has been proposed, but no named Castellan or appointment date is established at the initial muster. The Marshal's authority remains clear.
+The Marshal's personal guard draws upon old comrades from Armageddon and veterans appointed later. Who they are, how they differ and what ties them to the Marshal should be developed as **individual character dossiers**, not more tables of empty positions.
 
-## Six of the ten: the personal honor guard
+[Browse Sword Brethren dossiers →](sword-brethren.md)
 
-The six guard the Marshal and constitute his closest veteran household. Some are longtime comrades from the Armageddon fighting; others were appointed when the new order was formed. Their role is real before they first appear on the tabletop.
+## Other future personalities
 
-[See all ten founding positions →](sword-brethren.md)
+A Castellan, Techmarine, Apothecary, Ancient and shipboard officers may eventually receive named biographies. The timing of appointments and their personal stories must be established before they are presented as characters in the founding cast.
 
-!!! warning "No unapproved characters"
-    A previously proposed name in an older working dossier, **Garran Voss**, was explicitly provisional. It is **not** treated here as an approved founding character or relic bearer.
+!!! note "Status"
+    The name **Garran Voss** appeared as a provisional possibility in an older source. It remains **unapproved** and is not assigned to any role here.
