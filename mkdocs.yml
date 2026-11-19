@@ -1,0 +1,37 @@
+site_name: Warhammer Archives
+site_description: An evolving Warhammer 40,000 lore archive
+site_url: https://rednecko.github.io/warhammer-archives/
+repo_url: https://github.com/Rednecko/warhammer-archives
+docs_dir: docs
+theme:
+  name: material
+  palette:
+    - scheme: slate
+      primary: red
+      accent: amber
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - content.code.copy
+plugins:
+  - search
+markdown_extensions:
+  - admonition
+  - attr_list
+  - tables
+  - toc:
+      permalink: true
+nav:
+  - Home: index.md
+  - Sons of Sigismund:
+      - Overview: sons-of-sigismund/index.md
+      - Founding history: sons-of-sigismund/history/founding.md
+      - Founding Marshal: sons-of-sigismund/characters/founding-marshal.md
+      - Founding cadre: sons-of-sigismund/organization/founding-cadre.md
+      - Membership and growth: sons-of-sigismund/organization/membership.md
+      - Relics: sons-of-sigismund/relics/index.md
+      - Traditions: sons-of-sigismund/traditions/index.md
+      - The Righteous Crusader: sons-of-sigismund/fleet/righteous-crusader.md
+      - Campaign chronicle: sons-of-sigismund/campaigns/index.md
