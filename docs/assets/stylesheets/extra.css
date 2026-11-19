@@ -200,3 +200,25 @@ body { background:
   .md-typeset .codex-toc li > a { gap: .25rem; font-size: .7rem; grid-template-columns: 1.8rem minmax(0,1fr); }
   .md-typeset .codex-toc ol ol li > a { grid-template-columns: 2.5rem minmax(0,1fr); font-size: .64rem; }
 }
+
+/* Household organisation: rank and responsibilities, not a duplicate muster roster. */
+.org-hierarchy { margin: 1.2rem 0 1.55rem; padding: 1.1rem; background: linear-gradient(135deg,#181c1d,#24211d); border: 1px solid #5a4732; border-top: 2px solid #b78a52; border-radius: 3px; }
+.org-tier { display: flex; justify-content:center; }
+.org-node { flex: 1; min-width:0; border: 1px solid #725b3d; background:#1e2223; padding:.82rem .78rem; text-align:center; color:#e8ddcb; border-radius:3px; }
+.org-tier .org-node { max-width: 29rem; }
+.org-node strong { display:block; font-family:'Cinzel',Georgia,serif; font-size:.9rem; color:#f0d6a7; margin:.25rem 0 .32rem; }
+.org-node small { display:block; color:#b5ad9e; font-size:.61rem; line-height:1.55; }
+.org-eyebrow { display:block; color:#c2a276; font-size:.48rem; font-weight:800; letter-spacing:.11em; text-transform:uppercase; }
+.org-external { border-color:#665f52; background:#202326; }
+.org-command { border:2px solid #c09a5f; background:#322920; box-shadow:0 0 28px #0005; }
+.org-provisional { border-style:dashed; border-color:#6a6b6a; }
+.org-connector { width:1px; height:22px; background:#b78a52; margin:0 auto; }
+.org-council { display:grid; grid-template-columns:repeat(3, minmax(0,1fr)); gap:.6rem; }
+.org-operational { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:.6rem; max-width:42rem; margin:auto; }
+@media (max-width: 620px) {
+  .org-hierarchy { padding:.7rem; }
+  .org-council { grid-template-columns:1fr; }
+  .org-operational { grid-template-columns:1fr; }
+  .org-connector { height:15px; }
+  .org-node strong { font-size:.81rem; }
+}
