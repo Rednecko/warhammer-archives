@@ -4,7 +4,7 @@
 
 The Sons of Sigismund are **a small Black Templars crusading household**. Their initial field organization consists of **one Marshal's Household and two compact Crusading Squads**. These are the same two attached Black Templars Crusader Squads described in the founding, not additional units. We envision each at **roughly 10–30 Space Marines**, with the actual founding headcounts open.
 
-**Crusading Squad is the chosen organizational term.** First and Second are placeholders until we name the actual squads. No squad command staff or dedicated support formations are implied.
+**Crusading Squad is the chosen organizational term.** First and Second are placeholders until we name the actual squads. Each squad may have a leader, but no company-style headquarters, dedicated staff or standing support detachments are implied.
 
 ## 2.1.1 Overall organization chart
 
@@ -28,7 +28,7 @@ This is a **structure diagram**, not a representation of exact headcount. The **
 |---|---|---|
 | **High Marshal** | Overall Black Templars command | Helbrecht; higher authority, **outside** this household |
 | **Marshal** | Full household operational command | Leads the Sons and may fight with either Crusading Squad |
-| **Castellan** | Potential delegated force or squad leader | **Working possibility**, not an established founding post or assigned squad officer |
+| **Castellan** | Possible delegated command role (not required for individual squads) | **Working possibility**, not an established founding post or assigned squad officer |
 | **Sword Brother** | Earned veteran standing; mentorship and battlefield leadership | May be Household guard, squad veteran, duelist or reserve |
 | **Initiate** | Full Black Templars Astartes battle-brother | Serves in the Crusader Squad formations |
 | **Neophyte** | Apprentice Astartes under mentorship | Serves alongside Initiates in Crusader Squads |
@@ -39,7 +39,7 @@ The **Chaplain** holds spiritual responsibilities and the **Emperor's Champion**
 
 ### Marshal's Household
 
-The central command and immediate fighting retinue of the order: the Marshal, founding spiritual and sacred fighting offices and his **six personal Sword Brethren guards**. It may support the two squads on a joint operation but is **not a third Crusading Squad**.
+The central command and immediate fighting retinue of the order: the Marshal, founding spiritual and sacred fighting offices and his **six personal Sword Brethren guards**. Its members may fight beside either squad in a joint operation, but the Household is **not a third Crusading Squad**.
 
 [Household roster and individual postings →](marshals-household.md)
 
