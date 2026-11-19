@@ -91,9 +91,19 @@ The recovered **sword and standard** become the first relics entrusted to the ne
 
 An existing Black Templars strike cruiser, ***The Righteous Crusader***, is assigned and refitted **in or near the Armageddon theater**. Its purpose is to serve as the household's **mobile fortress-monastery, fighting ship and reliquary**, with protected archives, artifact examination facilities, quarters and the logistics required for independent missions or support to other Black Templars forces. Its complete interior architecture belongs in the [separate flagship section](../fleet/righteous-crusader.md), not this origins history.
 
-The first permanent founding group consists of the **Marshal, one Emperor's Champion, an original Chaplain and ten Sword Brethren**. Of those Sword Brethren, **six** form the Marshal's honor guard, **two** serve alongside the first Crusader Squad, **one** holds the role of household duelist (distinct from the Emperor's Champion), and **one** is reserved for a later squad. Most of the ten are former campaign companions; a few were transferred from other Black Templars forces. The honor guard includes veterans of both origins.
+The first muster brings together the Marshal's surviving companions from the Armageddon campaign and selected Black Templars transferred to his command. The formal **founding register** belongs here, at the moment the household is constituted—not in the later description of its rank structure.
 
-**Two Crusader Squads** are initially attached to his command without their members having sworn permanent allegiance. The order may later welcome other Black Templars who volunteer, transfer or serve temporarily; its first strength is **not** the older proposed sixty-warrior household.
+| Founding appointment or formation | Strength | Historical status at the commission |
+| --- | ---: | --- |
+| Founding Marshal | 1 | Former Sword Brother elevated by Helbrecht |
+| Emperor's Champion | 1 | Individual identity and investiture history open |
+| Founding Chaplain | 1 | Individual identity open |
+| Permanent Sword Brethren | **10** | Most are Armageddon comrades; others newly assigned |
+| Attached Crusader Squads | **2 squads** | Initiates and Neophytes not yet permanently sworn |
+
+The original **ten Sword Brethren** include **six** in the Marshal's personal honor guard, **two** assigned to serve alongside a Crusader Squad, **one** designated household duelist (not a second Emperor's Champion), and **one** held in reserve for a later squad. The six honor guards include both previous comrades and new appointees. Their names remain undecided; their **individual biographies** can be tracked in the [Sword Brethren character register](../characters/sword-brethren.md).
+
+Exact Initiate and Neophyte squad sizes are open, as are the first specialists' assignments. The household may later accept volunteers and transfers through the **Oath of Allegiance**. Older proposed strengths of twenty founding Sword Brethren or sixty permanently sworn warriors **do not describe this muster**.
 
 ### 1.3.4 Before the first deployment {#before-the-first-deployment}
 
