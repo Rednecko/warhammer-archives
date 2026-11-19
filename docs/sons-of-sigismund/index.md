@@ -102,7 +102,7 @@ The Sons of Sigismund are a **crusading household within the Black Templars**, r
 
 <div class="archive-strip"><strong>Historical roster?</strong> The original members and exact founding assignments are kept in <a href="history/founding/">Chapter Origins</a>. Details of <em>how the household functions</em> are maintained here.</div>
 
-[Open the full Chapter Organization section →](organization/)
+[Open the full Chapter Organization section →](organization/index.md)
 
 <span id="order-organisation"></span><span id="recruitment-and-allegiance"></span><span id="appearance-and-heraldry"></span>
 
