@@ -1,31 +1,48 @@
-# Founding cadre
+# The founding muster
 
-The founding cadre is distinct from the larger force the order may eventually muster.
+<div class="archive-page-label">Ordo record · Initial permanent and attached forces</div>
 
-| Role | Count | Status |
-| --- | ---: | --- |
-| Founding Marshal | 1 | Command |
-| Original Chaplain | 1 | Founding officer |
-| Emperor's Champion | 1 | Distinct from household duelist |
-| Sword Brethren | **10** | Permanent founding veteran cadre |
-| Crusader Squads | 2 | Attached; members not yet permanently sworn |
+<span class="archive-status">Confirmed founding cadre</span> <span class="archive-status open">Individual names pending</span>
 
-## Allocation of the ten Sword Brethren
+The new Marshal receives a veteran command core, not a fully formed independent Chapter. A permanent household exists from the commission, while two Crusader Squads provide an initial **attached fighting force**.
 
-| Assignment | Count |
-| --- | ---: |
-| Marshal's honor guard | 6 |
-| Veterans serving alongside initial Crusader Squad | 2 |
-| Designated household duelist/champion | 1 |
-| Reserved for later Crusader Squad | 1 |
-| **Total** | **10** |
+<div class="archive-metrics">
+  <div class="archive-metric"><strong>10</strong><span>Permanent Sword Brethren</span></div>
+  <div class="archive-metric"><strong>06</strong><span>Among them: honor guards</span></div>
+  <div class="archive-metric"><strong>02</strong><span>Attached Crusader Squads</span></div>
+</div>
 
-Most of the ten fought with the Marshal during the **pre-commission Armageddon campaign**; a few transferred from other Black Templars forces. The six honor guards include both longtime companions and newly appointed veterans.
+## Command appointments
 
-The designated household duelist is a Sword Brother with a recognized martial and ceremonial role, **not** another Emperor's Champion.
+| Appointment | Founding number | Status |
+|---|---:|---|
+| Marshal | 1 | Founder and overall commander |
+| Emperor's Champion | 1 | Distinct appointment |
+| Founding Chaplain | 1 | Spiritual officer |
+| **Sword Brethren** | **10** | Permanent veteran cadre |
+| Crusader Squads | 2 | Attached, **not yet permanently sworn** |
 
-Exact squad sizes and all individual names are open. The earlier proposed twenty Sword Brethren and sixty permanently sworn Astartes are **not** the founding strength.
+The exact number of Initiates and Neophytes in those two squads has not been fixed. The above appointments are not a statement of a legal matched-play roster.
 
-## Tabletop introduction
+## The ten Sword Brethren
 
-The first deployed models can include the Marshal, Emperor's Champion, Crusader Squad and two Sword Brethren. Later models may include the six honor guards, a Redemptor Dreadnought, Impulsor and Techmarine. Their introduction to games need not imply they were absent from the wider household beforehand. Vehicle crew descriptions are narrative, not separate tabletop unit slots.
+| Duty | Number | Meaning |
+|---|---:|---|
+| Marshal's honor guard | **6** | A mix of original campaign companions and newly appointed veterans |
+| Alongside first Crusader Squad | **2** | Veteran mentorship and combat support |
+| Designated household duelist | **1** | Distinguished Sword Brother; **not** another Emperor's Champion |
+| Reserved for later Crusader Squad | **1** | Already a founding veteran but not yet assigned |
+| **Total** | **10** | No double-counting of the honor guard |
+
+Most of these ten fought beside the Marshal in his **pre-founding Armageddon campaign**. The remainder transferred from other Black Templars units under the commission. They do not all need to enter the tabletop at the same time.
+
+## Growing from the tabletop
+
+The first tabletop force may feature the Marshal, Emperor's Champion, Crusader Squad and two assigned Sword Brethren. Later appearances can introduce the Redemptor Dreadnought, Impulsor, Techmarine and personal guard.
+
+The order's wider roster can expand through transfers, rotating attachments and newly sworn brothers over subsequent campaigns. **An honor guard not yet fielded is not an honor guard not yet created**: those six are already part of the founding ten.
+
+!!! warning "Superseded draft counts"
+    Suggestions of **twenty** founding Sword Brethren and a **sixty-warrior** founding sworn brotherhood have been replaced. Such numbers must not reappear as the original muster.
+
+[Meet the ten Sword Brethren →](../characters/sword-brethren.md) · [Membership rules →](membership.md)
