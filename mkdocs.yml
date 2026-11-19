@@ -55,11 +55,16 @@ nav:
       - Overview: sons-of-sigismund/index.md
       - "1. Chapter Origins": sons-of-sigismund/history/founding.md
       - "2. Chapter Organization":
-          - "Chapter Organization Overview": sons-of-sigismund/organization/index.md
-          - "2.1 Command Chart and Ranks": sons-of-sigismund/organization/chain-of-command.md
-          - "2.2 Recruitment and Advancement": sons-of-sigismund/organization/membership.md
-          - "2.3 Heraldry and Honors": sons-of-sigismund/organization/heraldry.md
-          - "2.4 Armor and Paint Schemes": sons-of-sigismund/organization/armor-schemes.md
+          - "Organization Overview": sons-of-sigismund/organization/index.md
+          - "2.1 Overall Chart and Ranks": sons-of-sigismund/organization/chain-of-command.md
+          - "2.2 Marshal's Household": sons-of-sigismund/organization/marshals-household.md
+          - "2.3 Fighting Companies":
+              - "Fighting Companies Overview": sons-of-sigismund/organization/fighting-companies/index.md
+              - "2.3.1 First Fighting Company": sons-of-sigismund/organization/fighting-companies/first.md
+              - "2.3.2 Second Fighting Company": sons-of-sigismund/organization/fighting-companies/second.md
+          - "2.4 Recruitment and Advancement": sons-of-sigismund/organization/membership.md
+          - "2.5 Heraldry and Honors": sons-of-sigismund/organization/heraldry.md
+          - "2.6 Armor and Paint Schemes": sons-of-sigismund/organization/armor-schemes.md
       - "3. Combat Doctrine": sons-of-sigismund/doctrine/index.md
       - "4. Beliefs and Traditions":
           - "4.1 Rites and Litany": sons-of-sigismund/traditions/index.md
