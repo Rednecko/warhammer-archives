@@ -50,12 +50,7 @@ The **Sons of Sigismund** are a homebrew **Black Templars crusading household** 
         <li><a href="#the-summons-and-the-writ-of-crusade">The Summons and the Writ of Crusade</a></li>
       </ol>
     </li>
-    <li><a href="#order-organisation">Order organisation</a>
-      <ol>
-        <li><a href="#ranks-and-command">Ranks and command</a></li>
-      </ol>
-    </li>
-    <li><a href="#recruitment-and-allegiance">Recruitment and allegiance</a></li>
+    <li><a href="#chapter-organization">Chapter Organization</a></li>
     <li><a href="#combat-doctrine">Combat doctrine</a></li>
     <li><a href="#beliefs-and-traditions">Beliefs and traditions</a>
       <ol>
@@ -67,7 +62,6 @@ The **Sons of Sigismund** are a homebrew **Black Templars crusading household** 
     <li><a href="#notable-individuals">Notable individuals</a></li>
     <li><a href="#relics-and-reliquary">Relics and reliquary</a></li>
     <li><a href="#fleet-and-fortress-monastery">Fleet and fortress-monastery</a></li>
-    <li><a href="#appearance-and-heraldry">Appearance and heraldry</a></li>
     <li><a href="#allies-and-imperial-relations">Allies and Imperial relations</a></li>
     <li><a href="#campaigns-and-battles">Campaigns and battles</a></li>
     <li><a href="#gallery-and-miniatures">Gallery and miniatures</a></li>
@@ -95,36 +89,24 @@ The original muster brought together the **Marshal, founding Chaplain, Emperor's
 
 [Read Chapter Origins in full →](history/founding.md)
 
-## 2. Order organisation {#order-organisation}
+## 2. Chapter Organization {#chapter-organization}
 
-This section is an **organizational reference**: which offices exist, their responsibilities, and how authority flows. It is not another founding narrative or personnel roster.
+The Sons of Sigismund are a **crusading household within the Black Templars**, rather than an independent Chapter. This section is a **reference for command, offices, service, insignia and appearance**, not another recounting of who joined the first muster.
 
-### 2.1 Ranks and command {#ranks-and-command}
+<div class="archive-grid two">
+  <a class="archive-card" href="organization/chain-of-command/"><span class="card-index">2.1 · Command</span><span class="card-title">Organization chart and ranks</span><span class="card-copy">High Marshal and Marshal, command responsibilities, Chaplaincy, specialists, Sword Brethren and Crusader formations.</span><span class="card-arrow">↗</span></a>
+  <a class="archive-card" href="organization/membership/"><span class="card-index">2.2 · Personnel</span><span class="card-title">Recruitment and advancement</span><span class="card-copy">Aspirants versus transferred Black Templars, temporary attachments, allegiance and promotion.</span><span class="card-arrow">↗</span></a>
+  <a class="archive-card" href="organization/heraldry/"><span class="card-index">2.3 · Symbols</span><span class="card-title">Heraldry and honors</span><span class="card-copy">White pauldrons, crosses, earned yellow, personal decoration and markings still to decide.</span><span class="card-arrow">↗</span></a>
+  <a class="archive-card" href="organization/armor-schemes/"><span class="card-index">2.4 · Painting</span><span class="card-title">Armor and paint schemes</span><span class="card-copy">The current grimdark black armor method, rank examples and recipe details still in development.</span><span class="card-arrow">↗</span></a>
+</div>
 
-| Level or office | Responsibility |
-|---|---|
-| **High Marshal** | Black Templars authority **above** this household; not a separate Sons of Sigismund rank |
-| **Marshal** | Commands the household, directs war and makes operational assignments |
-| **Castellan** | Possible delegated commander or deputy; **working concept**, not confirmed founding appointment |
-| **Sword Brother** | Veteran status, mentorship, combat leadership and specialized honor-guard duties |
-| **Initiate** | Full Astartes battle-brother serving in Crusader formations |
-| **Neophyte** | Apprentice warrior training under veteran and Initiate supervision |
+<div class="archive-strip"><strong>Historical roster?</strong> The original members and exact founding assignments are kept in <a href="history/founding/">Chapter Origins</a>. Details of <em>how the household functions</em> are maintained here.</div>
 
-The **Chaplaincy** holds spiritual responsibility for rites, discipline and remembrance; the **Emperor's Champion** bears a special sacred calling rather than a regular command rank. Techmarines, Apothecaries and ship personnel have distinct technical or operational responsibilities. Actual reporting relationships may change by mission.
+[Open the full Chapter Organization section →](organization/)
 
-<a class="archive-cta ghost" href="organization/chain-of-command/">View the full command chart</a>
+<span id="order-organisation"></span><span id="recruitment-and-allegiance"></span><span id="appearance-and-heraldry"></span>
 
-[Membership and attachments →](organization/membership.md)
-
-## 3. Recruitment and allegiance {#recruitment-and-allegiance}
-
-The Sons have **no order-specific homeworld or independent gene-seed lineage**. Their personnel can include transfers, volunteers and temporary attachments from other Black Templars crusades.
-
-A warrior serving under the Marshal is **not automatically permanently sworn**. Formal membership requires the household's **Oath of Allegiance**. Promotion to Sword Brother through the Trial of Swords and taking custody of a particular relic are **separate commitments**.
-
-[How membership works →](organization/membership.md)
-
-## 4. Combat doctrine {#combat-doctrine}
+## 3. Combat doctrine {#combat-doctrine}
 
 The Marshal is a **frontline swordsman** who expects to fight alongside his brothers, carrying the founding relic sword rather than remaining detached from the battle. The order favors a **concentrated operational footprint**: small detachments may guard sites or support related engagements, but the core brotherhood remains together and the Marshal repeatedly fights with familiar warriors.
 
@@ -134,15 +116,15 @@ The working naval doctrine avoids needlessly risking its ship and irreplaceable 
 
 [Mandate and doctrine](doctrine/index.md)
 
-## 5. Beliefs and traditions {#beliefs-and-traditions}
+## 4. Beliefs and traditions {#beliefs-and-traditions}
 
 The Sons of Sigismund inherit the Black Templars' reverence for the **God-Emperor**, sacred vows, intolerance of His enemies and the martial example of Sigismund. Their own growing identity emphasizes the memory of sacrifice, the sacred weight of recovered objects and **inspiration through example**. The deeds of ordinary Imperial defenders are worthy of remembrance, not only the accomplishments of Space Marines.
 
-### 5.1 The Trial of Swords {#the-trial-of-swords}
+### 4.1 The Trial of Swords {#the-trial-of-swords}
 
 A mentor Sword Brother trains an Initiate in arms, history and faith. The candidate undergoes formal duels against his sponsor and other Sword Brethren in the **Hall of Blades**. Successful induction confers Sword Brother standing and its optional yellow-heraldry privilege.
 
-### 5.2 The Litany of the Blade {#the-litany-of-the-blade}
+### 4.2 The Litany of the Blade {#the-litany-of-the-blade}
 
 The household has an **approved ceremonial litany**, beginning:
 
@@ -151,13 +133,13 @@ The household has an **approved ceremonial litany**, beginning:
 
 The complete text is preserved on the [Traditions and Litany](traditions/index.md) page. **The litany's final line is recited only at induction**, not during ordinary use.
 
-### 5.3 Oaths and custodianship {#oaths-and-custodianship}
+### 4.3 Oaths and custodianship {#oaths-and-custodianship}
 
 The **Oath of Allegiance** makes a brother permanently sworn. A **separate, still-unfinalized relic-custodianship vow** would accompany the duty of safeguarding an entrusted artifact. The household's detailed practices of penitence, daily devotion and serf relations remain unfinished.
 
 [Traditions and Litany](traditions/index.md) · [Custodianship](relics/custodianship.md)
 
-## 6. Notable individuals {#notable-individuals}
+## 5. Notable individuals {#notable-individuals}
 
 The household's biographical record remains deliberately modest until its original officers and brothers are named. This is where **personal stories and relationships** belong—not a second list of military posts.
 
@@ -167,7 +149,7 @@ The **Emperor's Champion**, **founding Chaplain** and the veterans who serve bes
 
 [Founding Marshal's biography →](characters/founding-marshal.md) · [Character dossier index →](characters/command-household.md) · [Sword Brethren dossier index →](characters/sword-brethren.md)
 
-## 7. Relics and reliquary {#relics-and-reliquary}
+## 6. Relics and reliquary {#relics-and-reliquary}
 
 The **founding sword** and **ancient battle standard** were recovered during the Marshal's pre-commission Armageddon campaign. The sword was wielded in the duel against the Warboss; the standard became a rallying symbol. Neither has a final name or documented provenance.
 
@@ -175,7 +157,7 @@ As the household develops, its reliquary will record **artifact histories, custo
 
 [Explore the relic register →](relics/index.md) · [Custodianship duties →](relics/custodianship.md)
 
-## 8. Fleet and fortress-monastery {#fleet-and-fortress-monastery}
+## 7. Fleet and fortress-monastery {#fleet-and-fortress-monastery}
 
 The Sons' flagship, ***The Righteous Crusader***, is an existing Black Templars **strike cruiser** assigned and adapted for their work. It serves as warship, mobile fortress-monastery, repository of Imperial memory and home for the close-knit brotherhood.
 
@@ -183,21 +165,13 @@ All **ship layout, decks, crew routes, hangars, reliquary spaces and capacity pl
 
 [The Righteous Crusader →](fleet/righteous-crusader.md) · [Deck-by-deck guide →](fleet/deck-guide.md)
 
-## 9. Appearance and heraldry {#appearance-and-heraldry}
-
-Their appearance remains unmistakably **Black Templars**: battle-worn black armor, white shoulder guards and the cross. **Yellow heraldry** is an optional, lifelong honor earned by Sword Brethren through their advancement, in tribute to Sigismund and the Imperial Fists lineage.
-
-Individual decoration and honor markings can tell a warrior's story; the **motto, battle cry, complete helmet/rank color system and individual names** are not yet confirmed. The emblem in the site's header is a wiki graphic, not a newly declared Chapter symbol.
-
-[Heraldry and honors →](traditions/heraldry.md)
-
-## 10. Allies and Imperial relations {#allies-and-imperial-relations}
+## 8. Allies and Imperial relations {#allies-and-imperial-relations}
 
 The household remains answerable within the Black Templars and may serve alongside other crusades. The founding Marshal's cooperation with Imperial Guard officers on Armageddon informs the order's respect for faithful mortal defenders.
 
 The ship is planned to accommodate allied Astra Militarum contingents. A narrative tie to the **173rd Armored Rangers** is a **working possibility**, not a recorded joint battle. Specific ties to the Mechanicus, Ecclesiarchy, Inquisition, Deathwatch and other institutions are still to be developed; no member's Deathwatch service has been established.
 
-## 11. Campaigns and battles {#campaigns-and-battles}
+## 9. Campaigns and battles {#campaigns-and-battles}
 
 The Marshal's victory over the regional Ork Warboss is **pre-commission history** and is documented in [Chapter Origins](history/founding.md). It is not a victory attributed to the household after its creation.
 
@@ -205,13 +179,13 @@ The Marshal's victory over the regional Ork Warboss is **pre-commission history*
 
 [Campaign chronicle →](campaigns/index.md) · [Battle-report template →](campaigns/battle-log-template.md)
 
-## 12. Gallery and miniatures {#gallery-and-miniatures}
+## 10. Gallery and miniatures {#gallery-and-miniatures}
 
 The miniature collection is the **physical source for future images and character identities**. The planned progression includes the Marshal, Emperor's Champion, Crusader Squad veterans, honor guards, Redemptor Dreadnought, Impulsor and Techmarine. Their arrival on the tabletop will be recorded independently of their place in the *founding* roster.
 
 **Photo gallery not yet populated.** Only approved photographs and appropriately licensed or original illustrations will be published.
 
-## 13. Sources and editorial status {#sources-and-editorial-status}
+## 11. Sources and editorial status {#sources-and-editorial-status}
 
 This is **original fan-created lore**, not official Games Workshop fiction. The encyclopedia structure was informed by the provided **Black Templars wiki contents outline** and **Chapter Creation Tables headings**. Our approved founding decisions take precedence over older internal drafts. Generic homebrew Chapter prompts are adapted to a **crusading household** rather than applied literally.
 
