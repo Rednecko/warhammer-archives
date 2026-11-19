@@ -1,68 +1,66 @@
-# 2.1 Command Chart, Ranks and Roles
+# 2.1 Overall Organization and Rank Structure
 
-<div class="archive-page-label">Sons of Sigismund · Organisational reference</div>
+<div class="archive-page-label">Sons of Sigismund · The small household and its fighting companies</div>
 
-The Sons of Sigismund are a **crusading household within the Black Templars**, not an independent Chapter divided into ten Codex companies. This page answers **who commands whom, what each rank means, and what each office does**. It is deliberately **not** a second account of the founding.
+The Sons of Sigismund are **a small Black Templars crusading household**. Unlike the reference diagram of a much larger crusade, their initial field organization consists of **one Marshal's Household and two compact Fighting Companies**, each centered on an **attached Crusader Squad**.
 
-## 2.1.1 Command structure
+**“Fighting Company” is a working organizational term, not a claim of a hundred Space Marines or an already approved company title.** The company designations may change when individual squad names and commanders are decided.
 
-<div class="org-hierarchy" role="img" aria-label="Black Templars High Marshal above the household Marshal, supported by Chaplaincy and specialist offices, with veterans, Initiates and Neophytes in operational formations">
-  <div class="org-tier"><div class="org-node org-external"><span class="org-eyebrow">BLACK TEMPLARS CHAPTER · HIGHER AUTHORITY</span><strong>High Marshal Helbrecht</strong><small>Chapter-wide supreme command; commissions and directs crusading Marshals</small></div></div>
+## 2.1.1 Overall organization chart
+
+<div class="org-hierarchy">
+  <div class="org-tier"><div class="org-node org-external"><span class="org-eyebrow">BLACK TEMPLARS · EXTERNAL SUPREME AUTHORITY</span><strong>High Marshal Helbrecht</strong><small>Commissions and directs the Marshal under Black Templars authority</small></div></div>
   <div class="org-connector"></div>
-  <div class="org-tier"><div class="org-node org-command"><span class="org-eyebrow">SONS OF SIGISMUND · HOUSEHOLD COMMAND</span><strong>Marshal</strong><small>Operational authority, deployments, household discipline, battlefield leadership</small></div></div>
+  <div class="org-tier"><div class="org-node org-command"><span class="org-eyebrow">SONS OF SIGISMUND · CENTRAL COMMAND</span><strong>The Marshal's Household</strong><small>Marshal · Emperor's Champion · Founding Chaplain · Six personal Sword Brethren guards</small><a class="org-node-link" href="../marshals-household/">Open household roster →</a></div></div>
   <div class="org-connector"></div>
-  <div class="org-council">
-    <div class="org-node"><span class="org-eyebrow">SPIRITUAL OFFICE · CONFIRMED CHAPLAIN</span><strong>Chaplaincy</strong><small>Vows, discipline, spiritual counsel, relic rites; not a replacement for the Marshal</small></div>
-    <div class="org-node org-provisional"><span class="org-eyebrow">COMMAND OFFICE · WORKING</span><strong>Castellan</strong><small>Possible senior deputy or delegated formation commander; appointment not finalized</small></div>
-    <div class="org-node"><span class="org-eyebrow">SPECIAL BATTLEFIELD CALLING</span><strong>Emperor's Champion</strong><small>Sacred champion; not a conventional step in the command hierarchy</small></div>
+  <div class="org-operational org-companies">
+    <div class="org-node"><span class="org-eyebrow">FORMATION I · COMPACT ATTACHMENT</span><strong>First Fighting Company</strong><small>First attached Crusader Squad · Two permanently sworn founding Sword Brethren serving alongside it · Commander open</small><a class="org-node-link" href="../fighting-companies/first/">Open company roster →</a></div>
+    <div class="org-node"><span class="org-eyebrow">FORMATION II · COMPACT ATTACHMENT</span><strong>Second Fighting Company</strong><small>Second attached Crusader Squad · Command and veteran attachments not yet settled</small><a class="org-node-link" href="../fighting-companies/second/">Open company roster →</a></div>
   </div>
-  <div class="org-connector"></div>
-  <div class="org-tier"><div class="org-node"><span class="org-eyebrow">VETERAN STATUS / LEADERSHIP</span><strong>Sword Brethren</strong><small>Veteran warriors, mentors, honor guards, duelist and delegated combat leaders</small></div></div>
-  <div class="org-connector"></div>
-  <div class="org-operational">
-    <div class="org-node"><span class="org-eyebrow">BATTLE-BROTHERS</span><strong>Initiates</strong><small>Fully inducted Astartes fighting and leading alongside the veterans</small></div>
-    <div class="org-node"><span class="org-eyebrow">APPRENTICES</span><strong>Neophytes</strong><small>Developing aspirants training under Initiates and veteran mentorship</small></div>
-  </div>
+  <div class="org-chart-foot"><strong>Shared and separately assigned duties:</strong> The original Sword Brother duelist and one reserved Sword Brother are <em>not</em> automatically added to the Fighting Companies. Techmarine, Apothecary, Ancient, shipmaster and other support billets are tracked only as their actual assignments are established.</div>
 </div>
 
-!!! info "Reading the chart"
-    The diagram represents **relative authority and duties**, not the exact number of Marines. The Chaplaincy advises and directs spiritual matters; the Emperor's Champion is a special calling, **not** a rank above Sword Brethren. A Castellan is a **working** command concept for this household, not a confirmed founding appointment. Command of individual squads and detachments depends on assigned officers and veterans.
+This is a **structure diagram**, not a representation of exact headcount. The **six personal guards** are included within the founding ten Sword Brethren. The two veterans serving alongside the First Fighting Company are **two more of those same ten**. The remaining two are the designated duelist and a reserve for a future squad. The Crusader Squads themselves are **attached, not yet permanently sworn**.
 
-## 2.1.2 Ranks and their responsibilities
+## 2.1.2 Rank and authority
 
-| Position or status | Function within the household | Standing |
+| Rank, status or office | What it means | Position in this household |
 |---|---|---|
-| **High Marshal** | Supreme Black Templars authority, **outside** the household's internal ranks | Established parent authority |
-| **Marshal** | Household commander, controls missions, assignments and operational command | Established founding office |
-| **Castellan** | Senior command support / possible delegated formation commander | **Working; officeholder not appointed** |
-| **Sword Brother** | Veteran distinction; experienced combatant, mentor and potential squad leader | Established |
-| **Initiate** | Battle-brother undertaking full combat duty; may be apprenticed to veterans | Established Black Templars structure |
-| **Neophyte** | Apprentice warrior mentored toward Initiate status | Established Black Templars structure |
+| **High Marshal** | Overall Black Templars command | Helbrecht; higher authority, **outside** this household |
+| **Marshal** | Full household operational command | Leads the Sons and may fight with either Fighting Company |
+| **Castellan** | Potential delegated force or company leader | **Working possibility**, not an established founding post or assigned company officer |
+| **Sword Brother** | Earned veteran standing; mentorship and battlefield leadership | May be Household guard, company veteran, duelist or reserve |
+| **Initiate** | Full Black Templars Astartes battle-brother | Serves in the Crusader Squad formations |
+| **Neophyte** | Apprentice Astartes under mentorship | Serves alongside Initiates in Crusader Squads |
 
-Rank or veteran status does not automatically determine **household allegiance**. Temporarily attached Black Templars retain the relationship to their parent crusade until accepted under the Sons' Oath of Allegiance.
+The **Chaplain** holds spiritual responsibilities and the **Emperor's Champion** fulfills a specific sacred calling. **Neither automatically outranks a Castellan in everyday operational command, and the Champion is not a substitute for an officer.** Actual assignments will be set when the named characters and company commanders are developed.
 
-## 2.1.3 Specialist offices and distinct duties
+## 2.1.3 Household and company responsibilities
 
-| Office | Responsibility | Household status |
-|---|---|---|
-| **Chaplain** | Spiritual authority, litanies, induction rites and religious discipline; serves alongside the Marshal | One founding Chaplain established; expanded **High Chaplain** concept still working |
-| **Emperor's Champion** | Sacred combat office and champion's duties rather than routine command of squadrons | Present at founding; personal history open |
-| **Household duelist** | Designated Sword Brother for formal martial and ceremonial duties | Established among the original Sword Brethren; **not** a second Emperor's Champion |
-| **Honor guard** | Personal protection, close service and battlefield attendance upon the Marshal | Established veteran assignment |
-| **Techmarine / forge personnel** | Care of arms, vehicles, wargear and technical aspects of relic preservation | Function established; individual first appointments open |
-| **Apothecarion** | Treatment, gene-seed stewardship and the medical support of Astartes | Function and ship facilities planned; individual appointments open |
-| **Shipmaster and mortal crew** | Voidship operation, watchkeeping, engineering, logistics and human service | Necessary command and crew functions; actual personnel and internal organization open |
+### Marshal's Household
 
-The **Shipmaster** commands the ship's regular operations under the Marshal's overarching authority; the bridge chain of command is not identical to an Astartes combat squad's hierarchy.
+The central command and immediate fighting retinue of the order: the Marshal, founding spiritual and sacred fighting offices and his **six personal Sword Brethren guards**. It may support the two companies on a joint operation but is **not a third Fighting Company**.
 
-## 2.1.4 Operational formations
+[Household roster and individual postings →](marshals-household.md)
 
-**Crusader Squads** combine Initiates and Neophytes under appropriate combat supervision. **Sword Brethren** can serve alongside squads as veteran mentors, lead detachments, remain with the Marshal as honor guard or hold specialized responsibilities. The order is sufficiently small that the Marshal frequently fights beside the same warriors.
+### Fighting Companies
 
-The structure is **functional**, not a fixed ten-company chart. Individual unit names, squad sizes, command billets and future appointments are still being developed.
+At founding the order has two **small, separate Crusader Squad formations**, not four fully staffed companies. The First has two permanent Sword Brethren veterans working alongside its attached squad. The Second has an attached squad, but its specific veteran leader has **not** been established.
 
-<div class="archive-strip"><strong>Where is the founding roster?</strong> The names, initial appointment numbers and original ten-Sword-Brethren allocation belong in <a href="../../history/founding/#the-cruiser-and-first-muster">Chapter Origins — The cruiser and first muster</a>. This page records <em>offices and authority</em>, not a duplicate list of who was founded when.</div>
+[How the Fighting Companies work →](fighting-companies/index.md)
 
-[Chapter Origins →](../history/founding.md) · [Recruitment and advancement →](membership.md) · [Personnel biographies →](../characters/command-household.md)
+### Specialist and voidship support
 
-[Chapter Organization overview →](index.md) · [Heraldry →](heraldry.md) · [Armor schemes →](armor-schemes.md)
+Techmarine and forge services maintain arms and vehicles; the Apothecarion handles Space Marine medical care; mortal crew keep *The Righteous Crusader* operational. **These are functions to assign**, not permission to invent additional officers or permanent Marines in the original muster.
+
+A Shipmaster's voidship chain of command remains distinct from the Marine ground-command structure.
+
+## 2.1.4 How the organization may grow
+
+New formations and permanently sworn brothers can be added after actual transfers, oaths and model-based development. The household may sometimes operate as one concentrated force and sometimes split between connected objectives, but its **founding structure stays small**.
+
+Do not treat the four possible Brotherhood suites on the flagship as four existing companies. They describe **ship capacity**, not the order's original military organization. Nor do we assign one Castellan to each Company just because that appears in the example chart.
+
+<div class="archive-strip"><strong>Historical versus current:</strong> <a href="../../history/founding/">Chapter Origins</a> preserves the original appointments. This page shows <em>how the household, companies and ranks relate</em>. The [Household](../marshals-household/) and [Fighting Company](../fighting-companies/) pages will become our working rosters as identities are decided.</div>
+
+[Chapter Organization overview →](index.md) · [Marshal's Household →](marshals-household.md) · [Fighting Companies →](fighting-companies/index.md) · [Recruitment →](membership.md)
