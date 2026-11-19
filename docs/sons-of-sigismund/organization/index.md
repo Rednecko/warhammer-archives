@@ -2,7 +2,7 @@
 
 <div class="archive-page-label">Sons of Sigismund · A compact crusading household</div>
 
-The Sons of Sigismund have a deliberately **small, personal command structure**: the **Marshal's Household** and **two Crusading Squads**. A Crusading Squad is envisioned at **roughly 10–30 Space Marines** as the order grows. These are **not Fighting Companies**, and neither squad requires its own Castellan, headquarters staff, permanently attached specialists or vehicle pool.
+The Sons of Sigismund have a deliberately **small, personal command structure**: the **Marshal's Household** and **two Crusading Squads**. A Crusading Squad is envisioned at **roughly 10–30 Space Marines** as the order grows. Neither squad requires its own Castellan, headquarters staff, permanently attached specialists or vehicle pool.
 
 At the founding, the two Crusading Squads are the **same two temporarily attached Black Templars Crusader Squads** described in [Chapter Origins](../history/founding.md#the-cruiser-and-first-muster). **First** and **Second** are organizational placeholders until their proper names are established. Exact strengths remain open.
 
