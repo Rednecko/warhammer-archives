@@ -54,31 +54,33 @@ nav:
   - Sons of Sigismund:
       - Overview: sons-of-sigismund/index.md
       - "1. Chapter Origins": sons-of-sigismund/history/founding.md
-      - "2. Order Organisation":
-          - "2.1 Ranks and command chart": sons-of-sigismund/organization/chain-of-command.md
-      - "3. Recruitment and allegiance": sons-of-sigismund/organization/membership.md
-      - "4. Combat Doctrine": sons-of-sigismund/doctrine/index.md
-      - "5. Beliefs and Traditions":
-          - "5.1 Traditions and Litany": sons-of-sigismund/traditions/index.md
-          - "5.2 Heraldry": sons-of-sigismund/traditions/heraldry.md
-      - "6. Notable Individuals":
-          - "6.1 Founding Marshal": sons-of-sigismund/characters/founding-marshal.md
-          - "6.2 Command personalities": sons-of-sigismund/characters/command-household.md
-          - "6.3 Sword Brethren dossiers": sons-of-sigismund/characters/sword-brethren.md
-      - "7. Relics and Reliquary":
-          - "7.1 Founding relics": sons-of-sigismund/relics/index.md
-          - "7.2 Custodianship": sons-of-sigismund/relics/custodianship.md
-      - "8. Fleet and Fortress-Monastery":
-          - "8.1 The Righteous Crusader": sons-of-sigismund/fleet/righteous-crusader.md
-          - "8.2 Deck-by-deck guide": sons-of-sigismund/fleet/deck-guide.md
-          - "8.3 Movement and access": sons-of-sigismund/fleet/operational-routes.md
-      - "11. Campaigns and Battles":
-          - "11.1 Campaign chronicle": sons-of-sigismund/campaigns/index.md
-          - "11.2 Armageddon theater": sons-of-sigismund/campaigns/armageddon.md
-          - "11.3 Battle-report template": sons-of-sigismund/campaigns/battle-log-template.md
-      - "13. Sources and Records":
-          - "13.1 Continuity register": sons-of-sigismund/archive/canon-status.md
-          - "13.2 Sources and editorial notes": sons-of-sigismund/archive/sources.md
+      - "2. Chapter Organization":
+          - "Chapter Organization Overview": sons-of-sigismund/organization/index.md
+          - "2.1 Command Chart and Ranks": sons-of-sigismund/organization/chain-of-command.md
+          - "2.2 Recruitment and Advancement": sons-of-sigismund/organization/membership.md
+          - "2.3 Heraldry and Honors": sons-of-sigismund/organization/heraldry.md
+          - "2.4 Armor and Paint Schemes": sons-of-sigismund/organization/armor-schemes.md
+      - "3. Combat Doctrine": sons-of-sigismund/doctrine/index.md
+      - "4. Beliefs and Traditions":
+          - "4.1 Rites and Litany": sons-of-sigismund/traditions/index.md
+      - "5. Notable Individuals":
+          - "5.1 Founding Marshal": sons-of-sigismund/characters/founding-marshal.md
+          - "5.2 Command personalities": sons-of-sigismund/characters/command-household.md
+          - "5.3 Sword Brethren dossiers": sons-of-sigismund/characters/sword-brethren.md
+      - "6. Relics and Reliquary":
+          - "6.1 Founding relics": sons-of-sigismund/relics/index.md
+          - "6.2 Custodianship": sons-of-sigismund/relics/custodianship.md
+      - "7. Fleet and Fortress-Monastery":
+          - "7.1 The Righteous Crusader": sons-of-sigismund/fleet/righteous-crusader.md
+          - "7.2 Deck-by-deck guide": sons-of-sigismund/fleet/deck-guide.md
+          - "7.3 Movement and access": sons-of-sigismund/fleet/operational-routes.md
+      - "9. Campaigns and Battles":
+          - "9.1 Campaign chronicle": sons-of-sigismund/campaigns/index.md
+          - "9.2 Armageddon theater": sons-of-sigismund/campaigns/armageddon.md
+          - "9.3 Battle-report template": sons-of-sigismund/campaigns/battle-log-template.md
+      - "11. Sources and Records":
+          - "11.1 Continuity register": sons-of-sigismund/archive/canon-status.md
+          - "11.2 Sources and editorial notes": sons-of-sigismund/archive/sources.md
   - Armies: armies/index.md
   - Lore Workshop:
       - Research library: research/index.md
