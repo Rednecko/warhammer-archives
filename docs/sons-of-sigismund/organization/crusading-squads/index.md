@@ -4,7 +4,7 @@
 
 <span class="archive-status">Two founding formations established</span> <span class="archive-status open">Individual names and exact strengths open</span>
 
-The Sons of Sigismund organize their fighting brothers into small **Crusading Squads**, envisioned at **roughly 10–30 Space Marines per squad** as their strength develops. A Crusading Squad is **not a Fighting Company**: it has no assumed company-size establishment, permanent Castellan, independent staff, vehicle pool or permanently attached specialist detachments.
+The Sons of Sigismund organize their fighting brothers into small **Crusading Squads**, envisioned at **roughly 10–30 Space Marines per squad** as their strength develops. These are modest formations without any assumed company-size establishment, permanent Castellan, independent staff, vehicle pool or permanently attached specialist detachments.
 
 At founding there are **two attached Black Templars Crusader Squads**. We use **First Crusading Squad** and **Second Crusading Squad** as their **working organizational labels**. These are the same two attached formations, **not two new units in addition to them**. Exact headcounts are unconfirmed, and the 10–30 range is a **size direction**, not a final roster.
 
