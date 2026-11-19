@@ -39,44 +39,69 @@ The **Sons of Sigismund** are a homebrew **Black Templars crusading household** 
 
 <div class="archive-strip"><strong>Continuity note:</strong> The Marshal's famous Armageddon victory happened <em>before</em> the Sons of Sigismund were founded. Their first battle as a new household remains unplayed. This is original fan-created lore, with unresolved details left clearly open.</div>
 
-## Contents
+## Table of contents
 
-<div class="codex-toc" id="contents">
-  <a href="#chapter-origins"><b>01</b><span>Chapter Origins</span></a>
-  <a href="#order-organisation"><b>02</b><span>Order organisation</span></a>
-  <a href="#recruitment-and-allegiance"><b>03</b><span>Recruitment and allegiance</span></a>
-  <a href="#names-and-honours"><b>04</b><span>Names and honours</span></a>
-  <a href="#deathwatch-and-outside-service"><b>05</b><span>Deathwatch and outside service</span></a>
-  <a href="#combat-doctrine"><b>06</b><span>Combat doctrine</span></a>
-  <a href="#beliefs-and-traditions"><b>07</b><span>Beliefs and traditions</span></a>
-  <a href="#notable-members"><b>08</b><span>Notable members</span></a>
-  <a href="#relics-and-reliquary"><b>09</b><span>Relics and reliquary</span></a>
-  <a href="#fleet-and-fortress-monastery"><b>10</b><span>Fleet and fortress-monastery</span></a>
-  <a href="#appearance-and-heraldry"><b>11</b><span>Appearance and heraldry</span></a>
-  <a href="#strength-and-deployments"><b>12</b><span>Strength and deployments</span></a>
-  <a href="#allies-and-imperial-relations"><b>13</b><span>Allies and Imperial relations</span></a>
-  <a href="#campaigns-and-battles"><b>14</b><span>Campaigns and battles</span></a>
-  <a href="#gallery-and-miniatures"><b>15</b><span>Gallery and miniatures</span></a>
-  <a href="#sources-and-editorial-status"><b>16</b><span>Sources and editorial status</span></a>
-</div>
+<nav class="codex-toc" id="contents" aria-label="Article contents">
+  <ol>
+    <li><a href="#chapter-origins">Chapter Origins</a>
+      <ol>
+        <li><a href="#the-sword-brother-before-armageddon">The Sword Brother — Before Armageddon</a></li>
+        <li><a href="#the-defining-armageddon-campaign">The Defining Armageddon Campaign</a></li>
+        <li><a href="#the-summons-and-the-writ-of-crusade">The Summons and the Writ of Crusade</a></li>
+      </ol>
+    </li>
+    <li><a href="#order-organisation">Order organisation</a></li>
+    <li><a href="#recruitment-and-allegiance">Recruitment and allegiance</a></li>
+    <li><a href="#names-and-honours">Names and honours</a></li>
+    <li><a href="#deathwatch-and-outside-service">Deathwatch and outside service</a></li>
+    <li><a href="#combat-doctrine">Combat doctrine</a></li>
+    <li><a href="#beliefs-and-traditions">Beliefs and traditions</a>
+      <ol>
+        <li><a href="#the-trial-of-swords">The Trial of Swords</a></li>
+        <li><a href="#the-litany-of-the-blade">The Litany of the Blade</a></li>
+        <li><a href="#oaths-and-custodianship">Oaths and custodianship</a></li>
+      </ol>
+    </li>
+    <li><a href="#notable-members">Notable members</a></li>
+    <li><a href="#relics-and-reliquary">Relics and reliquary</a>
+      <ol>
+        <li><a href="#the-founding-relic-sword">The founding relic sword</a></li>
+        <li><a href="#the-founding-battle-standard">The founding battle standard</a></li>
+        <li><a href="#the-orders-ongoing-duty">The order's ongoing duty</a></li>
+      </ol>
+    </li>
+    <li><a href="#fleet-and-fortress-monastery">Fleet and fortress-monastery</a></li>
+    <li><a href="#appearance-and-heraldry">Appearance and heraldry</a></li>
+    <li><a href="#strength-and-deployments">Strength and deployments</a></li>
+    <li><a href="#allies-and-imperial-relations">Allies and Imperial relations</a></li>
+    <li><a href="#campaigns-and-battles">Campaigns and battles</a>
+      <ol>
+        <li><a href="#pre-commission-the-armageddon-regional-campaign">Pre-commission: the Armageddon regional campaign</a></li>
+        <li><a href="#post-commission-the-first-armageddon-crusade">Post-commission: the first Armageddon crusade</a></li>
+      </ol>
+    </li>
+    <li><a href="#gallery-and-miniatures">Gallery and miniatures</a></li>
+    <li><a href="#sources-and-editorial-status">Sources and editorial status</a></li>
+  </ol>
+</nav>
 
-## Chapter Origins
+## 1. Chapter Origins {#chapter-origins}
 
 The origins of the Sons of Sigismund are recorded in **three connected stages**. The story ends with the commission, refit and initial muster—**before the household's first deployment**.
 
-### I. The Sword Brother — Before Armageddon
+### 1.1 The Sword Brother — Before Armageddon {#the-sword-brother-before-armageddon}
 
 Before he became a Marshal, the founder was a veteran **Black Templars Sword Brother**: a fearless master swordsman, respected mentor, skilled strategist and severe traditionalist inspired by Sigismund. He preferred to lead from the front and could speak with exceptional force when the moment demanded it.
 
 His actual **upbringing, original recruitment world, early mentors and promotion into the Sword Brethren remain open**. These will be developed as part of his character's story, rather than invented to fill a generic Chapter template.
 
-### II. The Defining Armageddon Campaign
+### 1.2 The Defining Armageddon Campaign {#the-defining-armageddon-campaign}
 
 During an Ork offensive on **Armageddon**, the Sword Brother recovered a historic relic sword and ancient battle standard, using the latter to rally a failing defensive position. Over weeks or months, he and his accompanying Initiates and Neophytes worked with Imperial officers, priests, vox crews and Guardsmen to spread that resolve across the battle lines.
 
 He deliberately provoked a significant **original regional Ork Warboss** and challenged him on a visible battlefield. His victory in a hard-fought duel disrupted Ork command and enabled Imperial troops to reclaim a meaningful sector through a **sustained counteroffensive**. The planetary war continued. These deeds belong to the founder's **pre-commission** history.
 
-### III. The Summons and the Writ of Crusade
+### 1.3 The Summons and the Writ of Crusade {#the-summons-and-the-writ-of-crusade}
 
 **High Marshal Helbrecht** summoned the Sword Brother after receiving reports of the campaign and, recognizing his martial, strategic and spiritual qualities, **offered him a Marshal's commission**. A formal ceremony established the Sons of Sigismund as a Black Templars crusading household tasked with the Eternal Crusade and the protection of endangered Imperial relics and memory. **“Writ of Crusade” is a proposed name** for the founding decree, not yet finalized.
 
@@ -87,7 +112,7 @@ The existing strike cruiser ***The Righteous Crusader*** was assigned and refitt
   <a class="archive-card" href="history/founding/"><span class="card-index">Origins reference</span><span class="card-title">Six founding questions</span><span class="card-copy">Reason, date, lineage, gene-seed, demeanor and flaw tracked without inventing unknown answers.</span><span class="card-arrow">↗</span></a>
 </div>
 
-## Order organisation
+## 2. Order organisation {#order-organisation}
 
 The Sons of Sigismund do not adopt the ten-company system of an independent Codex-compliant Chapter. They operate as a **small, fleet-based Black Templars household** subject to the High Marshal. Their founding Marshal holds tactical and operational authority. A Chaplain presides over spiritual duties and important rites, and a Castellan may eventually support command, though the latter's appointment remains a working concept.
 
@@ -104,7 +129,7 @@ These ten are **in addition** to the Marshal, Emperor's Champion and founding Ch
 
 [Founding muster](organization/founding-cadre.md) · [Chain of command](organization/chain-of-command.md) · [Ten Sword Brethren](characters/sword-brethren.md)
 
-## Recruitment and allegiance
+## 3. Recruitment and allegiance {#recruitment-and-allegiance}
 
 There is **no order-specific recruiting homeworld**. Initially the household draws upon other regional Black Templars crusades for reinforcements, transfers, volunteers and limited-service attachments. **Fighting under the Marshal is not the same as permanently joining his order.**
 
@@ -114,7 +139,7 @@ This is an evolving internal membership system, **not** a new independent proces
 
 [Membership and growth](organization/membership.md) · [Trial of Swords](traditions/index.md)
 
-## Names and honours
+## 4. Names and honours {#names-and-honours}
 
 The founding Marshal and the officers and veterans of the first cadre **have not yet received approved personal names**. Distinctive honorifics, the formal motto and the battlefield warcry likewise remain open. Individual Sword Brethren will eventually receive biographies rather than generic lists of invented achievements.
 
@@ -122,13 +147,13 @@ Two honors are already distinguished: **permanent allegiance to the household**,
 
 [Character register](characters/command-household.md) · [Heraldry](traditions/heraldry.md)
 
-## Deathwatch and outside service
+## 5. Deathwatch and outside service {#deathwatch-and-outside-service}
 
 Black Templars can serve in other Imperial military formations, including the Deathwatch, but **no named Son of Sigismund has yet been established as a Deathwatch veteran**. Temporary service with other Black Templars crusades is already central to this household's formation and replenishment.
 
 The specific history of any warrior's outside service is an **open biographical question**, not a missing exploit to invent.
 
-## Combat doctrine
+## 6. Combat doctrine {#combat-doctrine}
 
 The Marshal is a **frontline swordsman** who expects to fight alongside his brothers, carrying the founding relic sword rather than remaining detached from the battle. The order favors a **concentrated operational footprint**: small detachments may guard sites or support related engagements, but the core brotherhood remains together and the Marshal repeatedly fights with familiar warriors.
 
@@ -138,15 +163,15 @@ The working naval doctrine avoids needlessly risking its ship and irreplaceable 
 
 [Mandate and doctrine](doctrine/index.md)
 
-## Beliefs and traditions
+## 7. Beliefs and traditions {#beliefs-and-traditions}
 
 The Sons of Sigismund inherit the Black Templars' reverence for the **God-Emperor**, sacred vows, intolerance of His enemies and the martial example of Sigismund. Their own growing identity emphasizes the memory of sacrifice, the sacred weight of recovered objects and **inspiration through example**. The deeds of ordinary Imperial defenders are worthy of remembrance, not only the accomplishments of Space Marines.
 
-### The Trial of Swords
+### 7.1 The Trial of Swords {#the-trial-of-swords}
 
 A mentor Sword Brother trains an Initiate in arms, history and faith. The candidate undergoes formal duels against his sponsor and other Sword Brethren in the **Hall of Blades**. Successful induction confers Sword Brother standing and its optional yellow-heraldry privilege.
 
-### The Litany of the Blade
+### 7.2 The Litany of the Blade {#the-litany-of-the-blade}
 
 The household has an **approved ceremonial litany**, beginning:
 
@@ -155,13 +180,13 @@ The household has an **approved ceremonial litany**, beginning:
 
 The complete text is preserved on the [Traditions and Litany](traditions/index.md) page. **The litany's final line is recited only at induction**, not during ordinary use.
 
-### Oaths and custodianship
+### 7.3 Oaths and custodianship {#oaths-and-custodianship}
 
 The **Oath of Allegiance** makes a brother permanently sworn. A **separate, still-unfinalized relic-custodianship vow** would accompany the duty of safeguarding an entrusted artifact. The household's detailed practices of penitence, daily devotion and serf relations remain unfinished.
 
 [Traditions and Litany](traditions/index.md) · [Custodianship](relics/custodianship.md)
 
-## Notable members
+## 8. Notable members {#notable-members}
 
 | Warrior | Role | Record |
 |---|---|---|
@@ -177,23 +202,23 @@ The founding Marshal is **reserved, severe and traditionalist**, yet capable of 
 
 [Founding Marshal](characters/founding-marshal.md) · [Command household](characters/command-household.md)
 
-## Relics and reliquary
+## 9. Relics and reliquary {#relics-and-reliquary}
 
-### The founding relic sword
+### 9.1 The founding relic sword {#the-founding-relic-sword}
 
 Recovered by the Sword Brother during his pre-commission Armageddon campaign. He bore it in the public duel against the regional Ork Warboss. Its original maker, name, previous bearers and precise properties are **undecided**.
 
-### The founding battle standard
+### 9.2 The founding battle standard {#the-founding-battle-standard}
 
 Recovered during the same campaign, the standard became a visible rallying point across Imperial positions. It survives into the later order and will be represented by the collection's **Crusader Ancient** miniature. The exact banner bearer and provenance remain open.
 
-### The order's ongoing duty
+### 9.3 The order's ongoing duty {#the-orders-ongoing-duty}
 
 Recovered relics may undergo controlled **receipt, quarantine, examination, authentication, preservation and secure storage**. Chaplaincy and technical personnel are involved; a Sword Brother may receive responsibility for a particular artifact. The ship contains proposed archives and a protected **High Relic Vault**.
 
 [Relic register](relics/index.md) · [Oath and custody procedures](relics/custodianship.md)
 
-## Fleet and fortress-monastery
+## 10. Fleet and fortress-monastery {#fleet-and-fortress-monastery}
 
 ***The Righteous Crusader*** is an existing **Black Templars strike cruiser** assigned to the new Marshal. It serves as an operational vessel and mobile fortress-monastery, combining spiritual, military and archival functions.
 
@@ -207,7 +232,7 @@ Beyond those functional zones are the bridge, mortal crew decks, services and en
 
 [Flagship](fleet/righteous-crusader.md) · [Deck guide and schematic](fleet/deck-guide.md) · [Operational routes](fleet/operational-routes.md)
 
-## Appearance and heraldry
+## 11. Appearance and heraldry {#appearance-and-heraldry}
 
 The Sons remain visibly **Black Templars**: predominantly **weathered black armor**, traditional **white pauldrons** and the Black Templars cross. Their painting style favors grimdark wear and restrained highlights rather than bright blue edge treatment.
 
@@ -217,7 +242,7 @@ The custom shield currently used in this site's header is an **editorial wiki gr
 
 [Complete heraldry notes](traditions/heraldry.md)
 
-## Strength and deployments
+## 12. Strength and deployments {#strength-and-deployments}
 
 At their first muster, the permanent cadre consists of **ten Sword Brethren and the three founding command appointments**: Marshal, Emperor's Champion and Chaplain. Two **attached** Crusader Squads fight under the Marshal. Their sizes and the exact total Astartes headcount remain **undecided**.
 
@@ -227,7 +252,7 @@ Older ideas of **twenty founding Sword Brethren** or **roughly sixty permanent p
 
 [Founding roster](organization/founding-cadre.md)
 
-## Allies and Imperial relations
+## 13. Allies and Imperial relations {#allies-and-imperial-relations}
 
 The Sons of Sigismund operate within the Black Templars and can receive **assistance or attachments from other crusading forces**. They recognize the courage and sacrifice of Imperial Guard formations, a relationship rooted in the founder's Armageddon campaign.
 
@@ -235,25 +260,25 @@ The ship is intended to carry allied Astra Militarum personnel in separated faci
 
 Specific relationships with the Adeptus Mechanicus, Ecclesiarchy, Inquisition, Deathwatch, Rogue Traders, psykers and other Imperial institutions **have not been finalized**.
 
-## Campaigns and battles
+## 14. Campaigns and battles {#campaigns-and-battles}
 
-### Pre-commission: the Armageddon regional campaign
+### 14.1 Pre-commission: the Armageddon regional campaign {#pre-commission-the-armageddon-regional-campaign}
 
 The founder's relic recovery, rallies, Warboss duel and the Imperial counteroffensive are **approved founding backstory**. This is **not** a victory credited to the newly established Sons of Sigismund.
 
-### Post-commission: the first Armageddon crusade
+### 14.2 Post-commission: the first Armageddon crusade {#post-commission-the-first-armageddon-crusade}
 
 **Battles played: 0.** No win, loss, casualty, new honor or recovered artifact has been recorded under the household's new name. The campaign will grow from actual games or separately approved story events, not assumed results.
 
 [Campaign chronicle](campaigns/index.md) · [Battle report template](campaigns/battle-log-template.md)
 
-## Gallery and miniatures
+## 15. Gallery and miniatures {#gallery-and-miniatures}
 
 The miniature collection is the **physical source for future images and character identities**. The planned progression includes the Marshal, Emperor's Champion, Crusader Squad veterans, honor guards, Redemptor Dreadnought, Impulsor and Techmarine. Their arrival on the tabletop will be recorded independently of their place in the *founding* roster.
 
 **Photo gallery not yet populated.** Only approved photographs and appropriately licensed or original illustrations will be published.
 
-## Sources and editorial status
+## 16. Sources and editorial status {#sources-and-editorial-status}
 
 This is **original fan-created lore**, not official Games Workshop fiction. The encyclopedia structure was informed by the provided **Black Templars wiki contents outline** and **Chapter Creation Tables headings**. Our approved founding decisions take precedence over older internal drafts. Generic homebrew Chapter prompts are adapted to a **crusading household** rather than applied literally.
 
