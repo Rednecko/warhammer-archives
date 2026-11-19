@@ -58,8 +58,7 @@ nav:
       - Next subjects: research/next-topics.md
   - Sons of Sigismund:
       - Order overview: sons-of-sigismund/index.md
-      - History:
-          - The founding: sons-of-sigismund/history/founding.md
+      - Chapter Origins: sons-of-sigismund/history/founding.md
       - Command & People:
           - Founding Marshal: sons-of-sigismund/characters/founding-marshal.md
           - Command household: sons-of-sigismund/characters/command-household.md
