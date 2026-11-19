@@ -53,6 +53,9 @@ markdown_extensions:
 nav:
   - The Archive: index.md
   - Armies: armies/index.md
+  - Lore Workshop:
+      - Research library: research/index.md
+      - Next subjects: research/next-topics.md
   - Sons of Sigismund:
       - Order overview: sons-of-sigismund/index.md
       - History:
