@@ -54,7 +54,7 @@ The **Sons of Sigismund** are a homebrew **Black Templars crusading household** 
       <ol>
         <li><a href="#overall-organization-and-ranks">Overall organization and ranks</a></li>
         <li><a href="#the-marshals-household">The Marshal's Household</a></li>
-        <li><a href="#fighting-companies">Fighting Companies</a></li>
+        <li><a href="#fighting-companies">Crusading Squads</a></li>
         <li><a href="#organization-recruitment">Recruitment and advancement</a></li>
         <li><a href="#organization-heraldry">Heraldry and honors</a></li>
         <li><a href="#organization-armor-schemes">Armor and paint schemes</a></li>
@@ -100,7 +100,7 @@ The original muster brought together the **Marshal, founding Chaplain, Emperor's
 
 ## 2. Chapter Organization {#chapter-organization}
 
-The Sons of Sigismund are **one small Marshal's Household with two compact Fighting Companies**, built around the initial **two attached Crusader Squads**. The company labels are a working organizational device; unlike a conventional Codex Chapter, these formations are **not** 100-warrior companies.
+The Sons of Sigismund are **one small Marshal's Household with two compact Crusading Squads**, built around the initial **two attached Crusader Squads**. These are the **same two originally attached Crusader Squads**, not extra formations. We envision each Crusading Squad at **roughly 10–30 Space Marines**, with exact founding numbers still to be decided.
 
 ### 2.1 Overall organization and ranks {#overall-organization-and-ranks}
 
@@ -110,20 +110,20 @@ The Marshal holds central command under High Marshal Helbrecht. The Chaplain and
 
 ### 2.2 The Marshal's Household {#the-marshals-household}
 
-The Marshal, founding Chaplain, Emperor's Champion and **six personal Sword Brethren guards** form the command core. This is **not a third Fighting Company**. Personal assignments and unfilled support offices have their own register.
+The Marshal, founding Chaplain, Emperor's Champion and **six personal Sword Brethren guards** form the command core. This is **not a third Crusading Squad**. Personal assignments and unfilled support offices have their own register.
 
 [Open the Marshal's Household roster →](organization/marshals-household.md)
 
-### 2.3 Fighting Companies {#fighting-companies}
+### 2.3 Crusading Squads {#fighting-companies}
 
 <div class="archive-grid two">
- <a class="archive-card" href="organization/fighting-companies/first/"><span class="card-index">2.3.1 · Small formation I</span><span class="card-title">First Fighting Company</span><span class="card-copy">One attached Crusader Squad with two of the founding Sword Brethren serving alongside. Names and sizes still open.</span><span class="card-arrow">↗</span></a>
- <a class="archive-card" href="organization/fighting-companies/second/"><span class="card-index">2.3.2 · Small formation II</span><span class="card-title">Second Fighting Company</span><span class="card-copy">One attached Crusader Squad; no permanent veteran commander or individual roster yet established.</span><span class="card-arrow">↗</span></a>
+ <a class="archive-card" href="organization/crusading-squads/first/"><span class="card-index">2.3.1 · Squad I</span><span class="card-title">First Crusading Squad</span><span class="card-copy">One attached Crusader Squad with two of the founding Sword Brethren serving alongside. Names and sizes still open.</span><span class="card-arrow">↗</span></a>
+ <a class="archive-card" href="organization/crusading-squads/second/"><span class="card-index">2.3.2 · Squad II</span><span class="card-title">Second Crusading Squad</span><span class="card-copy">One attached Crusader Squad; no permanent veteran commander or individual roster yet established.</span><span class="card-arrow">↗</span></a>
 </div>
 
-These are **working names for two squad-centered formations**, not four full fighting companies borrowed from another crusade's chart. The six guards, two assigned veterans, one household duelist and one reserve are all **within the same original ten Sword Brethren**.
+These are **small squad-level formations**, not companies with permanent staffs or attached support units. The six guards, two assigned veterans, one household duelist and one reserve are all **within the same original ten Sword Brethren**.
 
-[How the two Fighting Companies work →](organization/fighting-companies/index.md)
+[How the two Crusading Squads work →](organization/crusading-squads/index.md)
 
 ### 2.4 Recruitment and advancement {#organization-recruitment}
 
