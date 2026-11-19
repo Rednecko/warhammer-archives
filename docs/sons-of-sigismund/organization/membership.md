@@ -1,34 +1,36 @@
-# Membership and growth
+# Membership, Attachments and Advancement
 
-<div class="archive-page-label">Organization · The Oath of Allegiance</div>
+<div class="archive-page-label">Organisational policy · Service and promotion</div>
 
-The Sons of Sigismund have **no homeworld** and no separate planetary recruitment system at their founding. Their growth begins with other Black Templars warriors serving under the Marshal's command—sometimes briefly, sometimes permanently.
+This page defines **how a Black Templar serves with the household**, rather than retelling which brothers were present when it was founded.
 
-## Assignment is not allegiance
+## 3.1 Temporary attachment
 
-A Black Templar from a nearby crusading force may be sent to support the Sons, may volunteer or may join for a particular mission. That service alone does **not** make him a permanently sworn member of the new household.
+A warrior can be assigned to the Sons of Sigismund from another Black Templars crusade for a mission or a longer period. **Service under the Marshal alone does not grant permanent membership.** An attached brother can retain his original crusade affiliation and later return to it.
 
-A warrior can return to his original crusade or seek permission to remain. If accepted, he takes the household's **Oath of Allegiance**. Its exact ritual words are not yet determined.
+## 3.2 Permanent allegiance
 
-| Relationship | What it means |
+A warrior who wishes to remain may be accepted into the household by taking the **Oath of Allegiance**. This is a separate question from his military **rank**. The precise wording and procedure are still being developed.
+
+## 3.3 Advancement
+
+Promotion to Sword Brother is governed by the household's **Trial of Swords**: a mentor trains an Initiate in arms, history and faith, with formal duels determining acceptance among the Sword Brethren. This confers a **permanent optional right to yellow heraldry**.
+
+The **Oath of Allegiance**, **Trial of Swords**, and **relic-custodianship oath** are three different commitments. A veteran can have earned Sword Brother status before transferring into this particular household.
+
+## 3.4 Personnel administration
+
+An accurate personnel register should eventually distinguish:
+
+| Administrative field | Purpose |
 |---|---|
-| **Founding permanent cadre** | The original ten Sword Brethren and founding command appointments |
-| **Temporary attachment** | Black Templars fighting alongside the order while retaining another parent crusading assignment |
-| **Newly sworn household member** | A warrior accepted into permanent allegiance after an oath |
-| **Future additions** | Veterans, specialists and other personnel who arrive as the collection and campaigns grow |
+| Current rank or veteran status | What the warrior is qualified to do |
+| Assigned formation or office | Where he presently serves |
+| Permanent or attached | Whether he has sworn allegiance to the Sons |
+| Prior crusade | Previous or continuing affiliation |
+| Mentor and apprentices | Instructional relationships, where established |
+| Personal history | Link to a separate character biography |
 
-## Two attached Crusader Squads
+The order has **no independent homeworld** and no new gene-seed lineage. Growth through attachments, transfer and accepted oaths belongs to normal Black Templars service.
 
-At the initial muster, **two Crusader Squads** fight under the new Marshal, but their Initiates and Neophytes have **not** yet sworn permanent allegiance. The squad sizes and individual identities remain open.
-
-Sword Brethren within the founding cadre may serve alongside those squads as mentors and combat leaders. The exact tabletop representation can change with the army without retroactively altering every character's origin.
-
-## Advancement is a separate story
-
-An Initiate may eventually earn Sword Brother status through the **Trial of Swords**, which involves a mentor and formal duels. That elevation grants the earned yellow-heraldry privilege. It should not be conflated with the Oath of Allegiance, and neither is automatically the relic-specific vow of a custodian.
-
-The order is deliberately close-knit: its Marshal and veterans train and fight with familiar brothers. New characters should become part of this web of relationships rather than appearing as anonymous numerical reinforcements.
-
-<div class="archive-strip"><strong>Later, not at founding:</strong> The household may grow substantially as campaigns advance. Older proposed full-muster numbers are possible future planning ideas, not fixed limits or historical totals.</div>
-
-[Trial and rites →](../traditions/index.md) · [Founding muster →](founding-cadre.md)
+[Chapter Origins — the historical muster →](../history/founding.md#the-cruiser-and-first-muster) · [Ranks and command responsibilities →](chain-of-command.md) · [Trial of Swords →](../traditions/index.md)
