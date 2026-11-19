@@ -54,7 +54,7 @@ The **Sons of Sigismund** are a homebrew **Black Templars crusading household** 
       <ol>
         <li><a href="#overall-organization-and-ranks">Overall organization and ranks</a></li>
         <li><a href="#the-marshals-household">The Marshal's Household</a></li>
-        <li><a href="#fighting-companies">Crusading Squads</a></li>
+        <li><a href="#crusading-squads">Crusading Squads</a></li>
         <li><a href="#organization-recruitment">Recruitment and advancement</a></li>
         <li><a href="#organization-heraldry">Heraldry and honors</a></li>
         <li><a href="#organization-armor-schemes">Armor and paint schemes</a></li>
@@ -100,7 +100,7 @@ The original muster brought together the **Marshal, founding Chaplain, Emperor's
 
 ## 2. Chapter Organization {#chapter-organization}
 
-The Sons of Sigismund are **one small Marshal's Household with two compact Crusading Squads**, built around the initial **two attached Crusader Squads**. These are the **same two originally attached Crusader Squads**, not extra formations. We envision each Crusading Squad at **roughly 10–30 Space Marines**, with exact founding numbers still to be decided.
+The Sons of Sigismund are **small Marshal's Household and two compact Crusading Squads**—the same two original attached Crusader Squads, not extra formations. We envision each Crusading Squad at **roughly 10–30 Space Marines**, with exact founding numbers still to be decided.
 
 ### 2.1 Overall organization and ranks {#overall-organization-and-ranks}
 
@@ -114,7 +114,7 @@ The Marshal, founding Chaplain, Emperor's Champion and **six personal Sword Bret
 
 [Open the Marshal's Household roster →](organization/marshals-household.md)
 
-### 2.3 Crusading Squads {#fighting-companies}
+### 2.3 Crusading Squads {#crusading-squads}
 
 <div class="archive-grid two">
  <a class="archive-card" href="organization/crusading-squads/first/"><span class="card-index">2.3.1 · Squad I</span><span class="card-title">First Crusading Squad</span><span class="card-copy">One attached Crusader Squad with two of the founding Sword Brethren serving alongside. Names and sizes still open.</span><span class="card-arrow">↗</span></a>
@@ -143,7 +143,7 @@ The grimdark miniature palette uses neutral gray definition and battle wear, **n
 
 [Armor and painting →](organization/armor-schemes.md)
 
-<div class="archive-strip"><strong>Historical founding roster?</strong> It remains in <a href="history/founding/">Chapter Origins</a>. These pages show the ongoing organization, assignments and working company registers as the army develops.</div>
+<div class="archive-strip"><strong>Historical founding roster?</strong> It remains in <a href="history/founding/">Chapter Origins</a>. These pages show the ongoing organization, assignments and working squad rosters as the army develops.</div>
 
 ## 3. Combat doctrine {#combat-doctrine}
 
