@@ -100,7 +100,7 @@ The original muster brought together the **Marshal, founding Chaplain, Emperor's
 
 ## 2. Chapter Organization {#chapter-organization}
 
-The Sons of Sigismund are **small Marshal's Household and two compact Crusading Squads**—the same two original attached Crusader Squads, not extra formations. We envision each Crusading Squad at **roughly 10–30 Space Marines**, with exact founding numbers still to be decided.
+The Sons of Sigismund field **a small Marshal's Household and two compact Crusading Squads**—the same two original attached Crusader Squads, not extra formations. We envision each Crusading Squad at **roughly 10–30 Space Marines**, with exact founding numbers still to be decided.
 
 ### 2.1 Overall organization and ranks {#overall-organization-and-ranks}
 
