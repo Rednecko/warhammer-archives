@@ -61,6 +61,6 @@ New formations and permanently sworn brothers can be added after actual transfer
 
 Do not treat the four possible Brotherhood suites on the flagship as four existing companies. They describe **ship capacity**, not the order's original military organization. Nor do we assign one Castellan to each Company just because that appears in the example chart.
 
-<div class="archive-strip"><strong>Historical versus current:</strong> <a href="../../history/founding/">Chapter Origins</a> preserves the original appointments. This page shows <em>how the household, companies and ranks relate</em>. The [Household](../marshals-household/) and [Fighting Company](../fighting-companies/) pages will become our working rosters as identities are decided.</div>
+<div class="archive-strip"><strong>Historical versus current:</strong> <a href="../../history/founding/">Chapter Origins</a> preserves the original appointments. This page shows <em>how the household, companies and ranks relate</em>. The [Household](marshals-household.md) and [Fighting Company](fighting-companies/index.md) pages will become our working rosters as identities are decided.</div>
 
 [Chapter Organization overview →](index.md) · [Marshal's Household →](marshals-household.md) · [Fighting Companies →](fighting-companies/index.md) · [Recruitment →](membership.md)
