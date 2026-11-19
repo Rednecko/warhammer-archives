@@ -1,4 +1,4 @@
-# 2.4 Armor and Paint Schemes
+# 2.6 Armor and Paint Schemes
 
 <div class="archive-page-label">Chapter Organization · Visual scheme and painting reference</div>
 
@@ -6,7 +6,7 @@
 
 The Sons of Sigismund retain a recognizable **Black Templars** identity rather than creating a new Chapter color scheme. This page is a **tabletop modeling and painting reference**. The symbolic meaning and eligibility of heraldic markings are recorded separately under [Heraldry and Honors](heraldry.md).
 
-## 2.4.1 The baseline scheme
+## 2.6.1 The baseline scheme
 
 | Area | Established direction |
 |---|---|
@@ -18,7 +18,7 @@ The Sons of Sigismund retain a recognizable **Black Templars** identity rather t
 | Cloth and details | Bronze, iron and crimson may be used for personalization; **not** mandatory rank codes |
 | Yellow | Reserved as an **earned optional honor** for Sword Brethren and those who have previously earned that standing |
 
-## 2.4.2 Working painting method
+## 2.6.2 Working painting method
 
 The current painting direction for the Black Templars miniatures is:
 
@@ -31,7 +31,7 @@ The current painting direction for the Black Templars miniatures is:
 
 **Working paint notes from previous hobby planning:** Mechanicus Standard Grey at approximately a **45-degree airbrush angle**, followed by **Eshin Grey from above**, with heavy but controlled sponge/edge weathering. These are **working application notes**, not a complete paint-by-paint recipe; primer, white recipe, yellow recipe, varnish and final finish remain to be standardized.
 
-## 2.4.3 Rank and role examples
+## 2.6.3 Rank and role examples
 
 | Warrior or office | Armor approach | Decision status |
 |---|---|---|
@@ -45,7 +45,7 @@ The current painting direction for the Black Templars miniatures is:
 
 No mandatory fully yellow helmet, company trim, colored weapon casing or alternative armor scheme is being introduced for any office without a further decision.
 
-## 2.4.4 Future paint plates and recipes
+## 2.6.4 Future paint plates and recipes
 
 When actual miniature photos are ready, this page can gain **front/back visual reference plates** for each rank, with confirmed paint brand, color, airbrush layers, brush steps, weathering and basing recipe. Until then, the table above is a **scheme register**, not a falsely completed painting guide.
 
