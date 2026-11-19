@@ -1,37 +1,86 @@
 site_name: Warhammer Archives
-site_description: An evolving Warhammer 40,000 lore archive
+site_description: "An unofficial living archive of Warhammer 40,000 armies, characters, relics, ships and tabletop campaigns."
 site_url: https://rednecko.github.io/warhammer-archives/
 repo_url: https://github.com/Rednecko/warhammer-archives
+repo_name: Rednecko/warhammer-archives
+edit_uri: ""
+copyright: "Unofficial Warhammer 40,000 fan archive · Not affiliated with Games Workshop"
 docs_dir: docs
+
 theme:
   name: material
+  language: en
+  custom_dir: null
+  logo: assets/images/templar-sigil.svg
+  favicon: assets/images/templar-sigil.svg
   palette:
-    - scheme: slate
-      primary: red
-      accent: amber
+    scheme: slate
+    primary: custom
+    accent: amber
+  font:
+    text: Inter
+    code: Roboto Mono
   features:
+    - navigation.tabs
     - navigation.sections
     - navigation.expand
+    - navigation.indexes
     - navigation.top
+    - navigation.footer
+    - navigation.tracking
+    - toc.follow
+    - search.suggest
     - search.highlight
     - content.code.copy
+
+extra_css:
+  - assets/stylesheets/extra.css
+
 plugins:
   - search
+
 markdown_extensions:
   - admonition
   - attr_list
   - tables
+  - md_in_html
   - toc:
       permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+
 nav:
-  - Home: index.md
+  - The Archive: index.md
+  - Armies: armies/index.md
   - Sons of Sigismund:
-      - Overview: sons-of-sigismund/index.md
-      - Founding history: sons-of-sigismund/history/founding.md
-      - Founding Marshal: sons-of-sigismund/characters/founding-marshal.md
-      - Founding cadre: sons-of-sigismund/organization/founding-cadre.md
-      - Membership and growth: sons-of-sigismund/organization/membership.md
-      - Relics: sons-of-sigismund/relics/index.md
-      - Traditions: sons-of-sigismund/traditions/index.md
-      - The Righteous Crusader: sons-of-sigismund/fleet/righteous-crusader.md
-      - Campaign chronicle: sons-of-sigismund/campaigns/index.md
+      - Order overview: sons-of-sigismund/index.md
+      - History:
+          - The founding: sons-of-sigismund/history/founding.md
+      - Command & People:
+          - Founding Marshal: sons-of-sigismund/characters/founding-marshal.md
+          - Command household: sons-of-sigismund/characters/command-household.md
+          - Ten founding Sword Brethren: sons-of-sigismund/characters/sword-brethren.md
+      - Organization:
+          - Founding muster: sons-of-sigismund/organization/founding-cadre.md
+          - Chain of command: sons-of-sigismund/organization/chain-of-command.md
+          - Membership & growth: sons-of-sigismund/organization/membership.md
+      - Doctrine: sons-of-sigismund/doctrine/index.md
+      - Rites & Heraldry:
+          - Traditions & Litany: sons-of-sigismund/traditions/index.md
+          - Heraldry: sons-of-sigismund/traditions/heraldry.md
+      - Reliquary:
+          - Founding relics: sons-of-sigismund/relics/index.md
+          - Custodianship: sons-of-sigismund/relics/custodianship.md
+      - The Righteous Crusader:
+          - Flagship overview: sons-of-sigismund/fleet/righteous-crusader.md
+          - Deck-by-deck guide: sons-of-sigismund/fleet/deck-guide.md
+          - Movement & access: sons-of-sigismund/fleet/operational-routes.md
+      - Campaigns:
+          - Campaign chronicle: sons-of-sigismund/campaigns/index.md
+          - Armageddon theater: sons-of-sigismund/campaigns/armageddon.md
+          - Battle-report template: sons-of-sigismund/campaigns/battle-log-template.md
+      - Archive desk:
+          - Continuity register: sons-of-sigismund/archive/canon-status.md
+          - Sources & editorial notes: sons-of-sigismund/archive/sources.md
