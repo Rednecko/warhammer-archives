@@ -1,4 +1,4 @@
-# Warhammer Archives
+# Williams Warhammer Lore
 
 A public, mobile-friendly Warhammer 40,000 **fan wiki**—with **owner-controlled editing**. Live site: **https://rednecko.github.io/warhammer-archives/**
 
