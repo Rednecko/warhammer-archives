@@ -61,6 +61,6 @@ The **Shipmaster** commands the ship's regular operations under the Marshal's ov
 
 The structure is **functional**, not a fixed ten-company chart. Individual unit names, squad sizes, command billets and future appointments are still being developed.
 
-<div class="archive-strip"><strong>Where is the founding roster?</strong> The names, initial appointment numbers and original ten-Sword-Brethren allocation belong in <a href="../history/founding/#the-cruiser-and-first-muster">Chapter Origins — The cruiser and first muster</a>. This page records <em>offices and authority</em>, not a duplicate list of who was founded when.</div>
+<div class="archive-strip"><strong>Where is the founding roster?</strong> The names, initial appointment numbers and original ten-Sword-Brethren allocation belong in <a href="../../history/founding/#the-cruiser-and-first-muster">Chapter Origins — The cruiser and first muster</a>. This page records <em>offices and authority</em>, not a duplicate list of who was founded when.</div>
 
 [Chapter Origins →](../history/founding.md) · [Membership and allegiance →](membership.md) · [Personnel biographies →](../characters/command-household.md)
