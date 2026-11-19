@@ -1,37 +1,17 @@
-# The ten founding Sword Brethren
+# Sword Brethren — Character Dossiers
 
-<div class="archive-page-label">Personnel register · Founding muster</div>
+<div class="archive-page-label">Personae · A living directory of individual brothers</div>
 
-The founding Marshal began his independent command with **ten permanent Sword Brethren**, most drawn from his former comrades and a smaller number appointed from other Black Templars forces. Names and precise individual histories are deliberately left blank.
+The **historical composition and assignment of the ten founding Sword Brethren** is recorded once in [Chapter Origins](../history/founding.md#the-cruiser-and-first-muster). This page is for their **identities, personalities, relationships, and deeds**, rather than another copy of those appointments.
 
-| Slot | Assignment | Origin | Identity |
-|---|---|---|---|
-| SB-01 | Marshal's honor guard | Former comrade or appointee | To be named |
-| SB-02 | Marshal's honor guard | Former comrade or appointee | To be named |
-| SB-03 | Marshal's honor guard | Former comrade or appointee | To be named |
-| SB-04 | Marshal's honor guard | Former comrade or appointee | To be named |
-| SB-05 | Marshal's honor guard | Former comrade or appointee | To be named |
-| SB-06 | Marshal's honor guard | Former comrade or appointee | To be named |
-| SB-07 | First Crusader Squad veteran | To be decided | To be named |
-| SB-08 | First Crusader Squad veteran | To be decided | To be named |
-| SB-09 | Designated household duelist | To be decided | To be named |
-| SB-10 | Reserved for a later Crusader Squad | To be decided | To be named |
+## Individual dossiers
 
-**The six honor guards are included in the ten.** SB-09 is an honored Sword Brother with a designated duelist's role, *not* a second Emperor's Champion.
+No individual Sword Brother has yet received an approved personal name and full biography. As the miniature collection and narrative grow, this directory will link to a page for each named warrior.
 
-The roster numbers above are **editorial tracking IDs**, not in-universe ranks or heraldic markings.
+A dossier can include his past crusade, relationship to the Marshal, mentor or apprentices, distinctive weapons and heraldry, entrusted relics and **recorded** battles or wounds. Undecided details will remain open.
 
-## The brotherhood as a living record
+## The brotherhood's future history
 
-As individual models and campaigns acquire identities, each brother can receive a profile including:
+The founders include veterans of the pre-commission Armageddon campaign and transferred brothers. That shared past is established, but the personal stories are still to be written. When their identities are agreed, their pages can describe exactly **why each brother chose or accepted service in this household**.
 
-- Name and former crusade or origin;
-- How and when he joined the Sons of Sigismund;
-- Mentor, apprentices and advancement;
-- Distinctive heraldry and relics entrusted to him;
-- Equipment and battlefield role;
-- **Only witnessed or played** battles, wounds, honors, losses and changes.
-
-The first six may eventually receive dedicated honor-guard pages. Until then, their existence and broad mix of origins are established; everything else stays open.
-
-[Membership and recruitment →](../organization/membership.md)
+[Command household character directory →](command-household.md) · [Founding historical register →](../history/founding.md#the-cruiser-and-first-muster)
