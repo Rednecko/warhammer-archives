@@ -1,18 +1,34 @@
-# Membership, attachments and growth
+# Membership and growth
 
-The Sons of Sigismund have **no homeworld**. They remain a Black Templars crusading household, not a separate gene-seed recruiting Chapter.
+<div class="archive-page-label">Organization · The Oath of Allegiance</div>
 
-**Permanent membership** is distinguished by an **Oath of Allegiance** to the household. A Black Templar may instead serve temporarily on attachment from another crusading force without taking that oath.
+The Sons of Sigismund have **no homeworld** and no separate planetary recruitment system at their founding. Their growth begins with other Black Templars warriors serving under the Marshal's command—sometimes briefly, sometimes permanently.
 
-High Marshal Helbrecht authorized the new Marshal to seek assistance from regional Black Templars forces. Warriors may volunteer, be transferred, serve temporarily, return to their previous crusades or later request permanent acceptance.
+## Assignment is not allegiance
 
-The initial two Crusader Squads are **attached but not permanently sworn**. The founding ten Sword Brethren are the permanent veteran core. As tabletop campaigns develop, new brothers and specialists may join, and oath-taking can become part of the narrative.
+A Black Templar from a nearby crusading force may be sent to support the Sons, may volunteer or may join for a particular mission. That service alone does **not** make him a permanently sworn member of the new household.
 
-## Sword Brethren and the Trial of Swords
+A warrior can return to his original crusade or seek permission to remain. If accepted, he takes the household's **Oath of Allegiance**. Its exact ritual words are not yet determined.
 
-A mentor Sword Brother trains an Initiate in arms, history and faith. The **Trial of Swords** involves formal duels against the mentor and other Sword Brethren. Earning Sword Brother status confers the lifelong privilege of **optional yellow heraldic accents**.
+| Relationship | What it means |
+|---|---|
+| **Founding permanent cadre** | The original ten Sword Brethren and founding command appointments |
+| **Temporary attachment** | Black Templars fighting alongside the order while retaining another parent crusading assignment |
+| **Newly sworn household member** | A warrior accepted into permanent allegiance after an oath |
+| **Future additions** | Veterans, specialists and other personnel who arrive as the collection and campaigns grow |
 
-See [traditions](../traditions/index.md).
+## Two attached Crusader Squads
 
-!!! note "Unsettled"
-    Exact oath wording, recruitment procedures for future Initiates, approval hierarchy and later household strength remain to be developed.
+At the initial muster, **two Crusader Squads** fight under the new Marshal, but their Initiates and Neophytes have **not** yet sworn permanent allegiance. The squad sizes and individual identities remain open.
+
+Sword Brethren within the founding cadre may serve alongside those squads as mentors and combat leaders. The exact tabletop representation can change with the army without retroactively altering every character's origin.
+
+## Advancement is a separate story
+
+An Initiate may eventually earn Sword Brother status through the **Trial of Swords**, which involves a mentor and formal duels. That elevation grants the earned yellow-heraldry privilege. It should not be conflated with the Oath of Allegiance, and neither is automatically the relic-specific vow of a custodian.
+
+The order is deliberately close-knit: its Marshal and veterans train and fight with familiar brothers. New characters should become part of this web of relationships rather than appearing as anonymous numerical reinforcements.
+
+<div class="archive-strip"><strong>Later, not at founding:</strong> The household may grow substantially as campaigns advance. Older proposed full-muster numbers are possible future planning ideas, not fixed limits or historical totals.</div>
+
+[Trial and rites →](../traditions/index.md) · [Founding muster →](founding-cadre.md)
