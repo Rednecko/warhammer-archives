@@ -50,7 +50,16 @@ The **Sons of Sigismund** are a homebrew **Black Templars crusading household** 
         <li><a href="#the-summons-and-the-writ-of-crusade">The Summons and the Writ of Crusade</a></li>
       </ol>
     </li>
-    <li><a href="#chapter-organization">Chapter Organization</a></li>
+    <li><a href="#chapter-organization">Chapter Organization</a>
+      <ol>
+        <li><a href="#overall-organization-and-ranks">Overall organization and ranks</a></li>
+        <li><a href="#the-marshals-household">The Marshal's Household</a></li>
+        <li><a href="#fighting-companies">Fighting Companies</a></li>
+        <li><a href="#organization-recruitment">Recruitment and advancement</a></li>
+        <li><a href="#organization-heraldry">Heraldry and honors</a></li>
+        <li><a href="#organization-armor-schemes">Armor and paint schemes</a></li>
+      </ol>
+    </li>
     <li><a href="#combat-doctrine">Combat doctrine</a></li>
     <li><a href="#beliefs-and-traditions">Beliefs and traditions</a>
       <ol>
@@ -91,20 +100,50 @@ The original muster brought together the **Marshal, founding Chaplain, Emperor's
 
 ## 2. Chapter Organization {#chapter-organization}
 
-The Sons of Sigismund are a **crusading household within the Black Templars**, rather than an independent Chapter. This section is a **reference for command, offices, service, insignia and appearance**, not another recounting of who joined the first muster.
+The Sons of Sigismund are **one small Marshal's Household with two compact Fighting Companies**, built around the initial **two attached Crusader Squads**. The company labels are a working organizational device; unlike a conventional Codex Chapter, these formations are **not** 100-warrior companies.
+
+### 2.1 Overall organization and ranks {#overall-organization-and-ranks}
+
+The Marshal holds central command under High Marshal Helbrecht. The Chaplain and Emperor's Champion have distinct spiritual and sacred combat duties; Sword Brethren may be veteran mentors, guards or combat leaders. The full chart distinguishes command authority from rank and special calling.
+
+[Open overall chart and rank structure →](organization/chain-of-command.md)
+
+### 2.2 The Marshal's Household {#the-marshals-household}
+
+The Marshal, founding Chaplain, Emperor's Champion and **six personal Sword Brethren guards** form the command core. This is **not a third Fighting Company**. Personal assignments and unfilled support offices have their own register.
+
+[Open the Marshal's Household roster →](organization/marshals-household.md)
+
+### 2.3 Fighting Companies {#fighting-companies}
 
 <div class="archive-grid two">
-  <a class="archive-card" href="organization/chain-of-command/"><span class="card-index">2.1 · Command</span><span class="card-title">Organization chart and ranks</span><span class="card-copy">High Marshal and Marshal, command responsibilities, Chaplaincy, specialists, Sword Brethren and Crusader formations.</span><span class="card-arrow">↗</span></a>
-  <a class="archive-card" href="organization/membership/"><span class="card-index">2.2 · Personnel</span><span class="card-title">Recruitment and advancement</span><span class="card-copy">Aspirants versus transferred Black Templars, temporary attachments, allegiance and promotion.</span><span class="card-arrow">↗</span></a>
-  <a class="archive-card" href="organization/heraldry/"><span class="card-index">2.3 · Symbols</span><span class="card-title">Heraldry and honors</span><span class="card-copy">White pauldrons, crosses, earned yellow, personal decoration and markings still to decide.</span><span class="card-arrow">↗</span></a>
-  <a class="archive-card" href="organization/armor-schemes/"><span class="card-index">2.4 · Painting</span><span class="card-title">Armor and paint schemes</span><span class="card-copy">The current grimdark black armor method, rank examples and recipe details still in development.</span><span class="card-arrow">↗</span></a>
+ <a class="archive-card" href="organization/fighting-companies/first/"><span class="card-index">2.3.1 · Small formation I</span><span class="card-title">First Fighting Company</span><span class="card-copy">One attached Crusader Squad with two of the founding Sword Brethren serving alongside. Names and sizes still open.</span><span class="card-arrow">↗</span></a>
+ <a class="archive-card" href="organization/fighting-companies/second/"><span class="card-index">2.3.2 · Small formation II</span><span class="card-title">Second Fighting Company</span><span class="card-copy">One attached Crusader Squad; no permanent veteran commander or individual roster yet established.</span><span class="card-arrow">↗</span></a>
 </div>
 
-<div class="archive-strip"><strong>Historical roster?</strong> The original members and exact founding assignments are kept in <a href="history/founding/">Chapter Origins</a>. Details of <em>how the household functions</em> are maintained here.</div>
+These are **working names for two squad-centered formations**, not four full fighting companies borrowed from another crusade's chart. The six guards, two assigned veterans, one household duelist and one reserve are all **within the same original ten Sword Brethren**.
 
-[Open the full Chapter Organization section →](organization/index.md)
+[How the two Fighting Companies work →](organization/fighting-companies/index.md)
 
-<span id="order-organisation"></span><span id="recruitment-and-allegiance"></span><span id="appearance-and-heraldry"></span>
+### 2.4 Recruitment and advancement {#organization-recruitment}
+
+Black Templars recruitment, temporary service under the Marshal, the **Oath of Allegiance**, and promotion through the **Trial of Swords** are separate processes.
+
+[Recruitment and advancement →](organization/membership.md)
+
+### 2.5 Heraldry and honors {#organization-heraldry}
+
+The household retains weathered black armor, white pauldrons and Black Templars heraldry. **Yellow is an earned, optional Sword Brother distinction**, not an automatic scheme for every officer.
+
+[Heraldry and markings →](organization/heraldry.md)
+
+### 2.6 Armor and paint schemes {#organization-armor-schemes}
+
+The grimdark miniature palette uses neutral gray definition and battle wear, **not blue edge highlights**. Specific painting recipes remain working references, separate from in-universe rank markings.
+
+[Armor and painting →](organization/armor-schemes.md)
+
+<div class="archive-strip"><strong>Historical founding roster?</strong> It remains in <a href="history/founding/">Chapter Origins</a>. These pages show the ongoing organization, assignments and working company registers as the army develops.</div>
 
 ## 3. Combat doctrine {#combat-doctrine}
 
