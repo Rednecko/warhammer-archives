@@ -113,4 +113,4 @@ With the commission given, the cruiser prepared, and the founding force assemble
 
 <div class="archive-strip"><strong>Continuity boundary:</strong> The regional Warboss's defeat happened before Helbrecht's commission. No first-crusade result, casualty, promotion or relic discovery has been established after the founding.</div>
 
-[Founding Marshal profile →](../characters/founding-marshal.md) · [The original muster →](../organization/founding-cadre.md) · [The Righteous Crusader →](../fleet/righteous-crusader.md) · [Campaign chronicle →](../campaigns/index.md)
+[Founding Marshal profile →](../characters/founding-marshal.md) · [Sword Brethren character dossiers →](../characters/sword-brethren.md) · [The Righteous Crusader →](../fleet/righteous-crusader.md) · [Campaign chronicle →](../campaigns/index.md)
