@@ -19,9 +19,9 @@ The founding refit takes place **in or near the Armageddon theater**. The exact 
 ## The three household zones
 
 <div class="archive-grid">
-  <a class="archive-card" href="deck-guide/#i-sanctum-of-sigismund"><span class="card-index">I · Sacred & command</span><span class="card-title">Sanctum of Sigismund</span><span class="card-copy">Reclusiam, Hall of Blades, Hall of Vigil, Strategium, Inner Sanctum and High Relic Vault.</span><span class="card-arrow">↗</span></a>
-  <a class="archive-card" href="deck-guide/#ii-brotherhood-deck"><span class="card-index">II · Life & training</span><span class="card-title">Brotherhood Deck</span><span class="card-copy">Barracks, veteran rooms, shared hall, sparring chambers and dedicated training arenas.</span><span class="card-arrow">↗</span></a>
-  <a class="archive-card" href="deck-guide/#iii-grand-hangar-and-logistics"><span class="card-index">III · War & sustainment</span><span class="card-title">Hangar & Logistics</span><span class="card-copy">Thunderhawks, Drop Pods, allied flight space, vehicles, Apothecarion, forge and relic examination.</span><span class="card-arrow">↗</span></a>
+  <a class="archive-card" href="../deck-guide/#i-sanctum-of-sigismund"><span class="card-index">I · Sacred & command</span><span class="card-title">Sanctum of Sigismund</span><span class="card-copy">Reclusiam, Hall of Blades, Hall of Vigil, Strategium, Inner Sanctum and High Relic Vault.</span><span class="card-arrow">↗</span></a>
+  <a class="archive-card" href="../deck-guide/#ii-brotherhood-deck"><span class="card-index">II · Life & training</span><span class="card-title">Brotherhood Deck</span><span class="card-copy">Barracks, veteran rooms, shared hall, sparring chambers and dedicated training arenas.</span><span class="card-arrow">↗</span></a>
+  <a class="archive-card" href="../deck-guide/#iii-grand-hangar-and-logistics"><span class="card-index">III · War & sustainment</span><span class="card-title">Hangar & Logistics</span><span class="card-copy">Thunderhawks, Drop Pods, allied flight space, vehicles, Apothecarion, forge and relic examination.</span><span class="card-arrow">↗</span></a>
 </div>
 
 These levels do **not** represent the ship's entire literal deck count. The bridge, auxiliary systems, crew habitation and engineering extend far beyond this central Astartes complex.
