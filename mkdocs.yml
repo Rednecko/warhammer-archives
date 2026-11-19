@@ -51,10 +51,6 @@ markdown_extensions:
 
 nav:
   - The Archive: index.md
-  - Armies: armies/index.md
-  - Lore Workshop:
-      - Research library: research/index.md
-      - Next subjects: research/next-topics.md
   - Sons of Sigismund:
       - Overview: sons-of-sigismund/index.md
       - "1. Chapter Origins": sons-of-sigismund/history/founding.md
@@ -84,3 +80,7 @@ nav:
       - "16. Sources and Records":
           - "16.1 Continuity register": sons-of-sigismund/archive/canon-status.md
           - "16.2 Sources and editorial notes": sons-of-sigismund/archive/sources.md
+  - Armies: armies/index.md
+  - Lore Workshop:
+      - Research library: research/index.md
+      - Next subjects: research/next-topics.md
