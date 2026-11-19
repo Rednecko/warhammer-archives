@@ -12,6 +12,10 @@
   <div class="archive-metric"><strong>01</strong><span>Central reliquary</span></div>
 </div>
 
+![Conceptual deck-zone diagram of The Righteous Crusader](../../assets/images/crusader-deck-schematic.svg)
+
+*Visual planning diagram: functional zones only, not literal ship geometry or final room dimensions.*
+
 ## I. Sanctum of Sigismund
 
 The sanctum is the highest expression of the household's sacred and command identity. It is ceremonial, yet guarded; there is a progressively stricter boundary between the gathered brotherhood and the Marshal's private household.
