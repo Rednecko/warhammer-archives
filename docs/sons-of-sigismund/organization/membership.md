@@ -44,4 +44,4 @@ A brother accepted for permanent membership takes an **Oath of Allegiance** to t
 
 An eventual administrative register should distinguish **rank**, **current office**, **assigned formation**, **permanent versus attached affiliation**, **former crusade**, **mentor/apprentices**, and an individual **biography link**. This prevents a historical founding roster from being confused with the current organization.
 
-[Chapter Organization overview →](index.md) · [Command chart →](chain-of-command.md) · [Fighting Companies →](fighting-companies/index.md) · [Heraldry →](heraldry.md) · [Trial of Swords →](../traditions/index.md)
+[Chapter Organization overview →](index.md) · [Command chart →](chain-of-command.md) · [Crusading Squads →](crusading-squads/index.md) · [Heraldry →](heraldry.md) · [Trial of Swords →](../traditions/index.md)
