@@ -4,7 +4,7 @@
 
 <span class="archive-status">Core appointments established</span> <span class="archive-status open">Personal names and specialist postings pending</span>
 
-The **Marshal's Household** is the small command and personal retinue at the center of the Sons of Sigismund. It is **not a separate company**, nor is every specialist aboard *The Righteous Crusader* counted as a personal guard. The Marshal leads and fights alongside his brothers rather than directing a remote network of formations.
+The **Marshal's Household** is the small command and personal retinue at the center of the Sons of Sigismund. It is **not a third Crusading Squad**, nor is every specialist aboard *The Righteous Crusader* counted as a personal guard. The Marshal leads and fights alongside his brothers rather than directing a remote network of formations.
 
 ## 2.2.1 Household command register
 
@@ -34,14 +34,14 @@ These are **roster placeholders, not ranks or official heraldic identifiers**. A
 
 The household also benefits from the services of the **designated Sword Brother duelist**, who is one of the *remaining* original ten, **not a seventh honor guard and not a second Emperor's Champion**. His command reporting and daily assignment are still open.
 
-The founding **battle standard** is intended for a **Crusader Ancient** in the miniature collection; the specific bearer, his place on the active roster, and any assignment to the Household or a Fighting Company are **not yet established**.
+The founding **battle standard** is intended for a **Crusader Ancient** in the miniature collection; the specific bearer, his place on the active roster, and any assignment to the Household or a Crusading Squad are **not yet established**.
 
 **Techmarines, Apothecaries, forge staff, relic archivists, shipmaster and serfs** support the order and its flagship, but none should be counted as an additional founding officer without a deliberate decision. A **Castellan** could eventually serve as delegated command support; no specific founding Castellan has been approved.
 
 ## 2.2.4 Household fighting role
 
-The household is the Marshal's immediate command, guardian retinue and personal fighting nucleus. Its members may accompany either small Fighting Company or form the center of a combined operation. That does **not** mean every brother or specialist reports through the Emperor's Champion, nor does it fix the future composition of every mission.
+The household is the Marshal's immediate command, guardian retinue and personal fighting nucleus. Its members may accompany either small Crusading Squad or form the center of a combined operation. That does **not** mean every brother or specialist reports through the Emperor's Champion, nor does it fix the future composition of every mission.
 
-<div class="archive-strip"><strong>Roster boundary:</strong> The Marshal's Household is a compact command group. Its known honor guard comprises <strong>six</strong> men, not a huge permanent force. The first two Fighting Companies are separately documented under <a href="../fighting-companies/">Fighting Companies</a>.</div>
+<div class="archive-strip"><strong>Roster boundary:</strong> The Marshal's Household is a compact command group. Its known honor guard comprises <strong>six</strong> men, not a huge permanent force. The first two Crusading Squads are separately documented under <a href="../crusading-squads/">Crusading Squads</a>.</div>
 
-[Overall organization chart →](chain-of-command.md) · [Fighting Companies →](fighting-companies/index.md) · [Founding muster →](../history/founding.md#the-cruiser-and-first-muster)
+[Overall organization chart →](chain-of-command.md) · [Crusading Squads →](crusading-squads/index.md) · [Founding muster →](../history/founding.md#the-cruiser-and-first-muster)
