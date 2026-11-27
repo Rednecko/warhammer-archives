@@ -4,7 +4,7 @@
 
 <span class="archive-status">Founding squad attachment established</span> <span class="archive-status open">Actual roster and squad title open</span>
 
-The **First Crusading Squad** is our name for the **first attached Black Templars Crusader Squad** serving the new order. It is a **small, flexible formation**, envisioned at roughly **10–30 Space Marines** as the household grows—not a company with its own staff or dedicated support units.
+The **First Crusading Squad** is our name for the **first attached Black Templars Crusader Squad** serving the new order. It is a **small, flexible formation**, with an eventual target of **20 Space Marines total**, rather than a company with staff or dedicated support units. Its actual founding size is still open.
 
 Two of the household's **original ten permanently sworn Sword Brethren** are established as serving alongside this squad **at the founding**. Their individual names and duties are still to be developed. The **long-term four-squad organization** envisions **one Sword Brother per 20-Marine Crusading Squad**, but this does **not** erase the First Squad's historical two-veteran assignment.
 
