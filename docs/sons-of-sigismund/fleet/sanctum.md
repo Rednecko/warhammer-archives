@@ -14,7 +14,7 @@ Principal personnel lifts rise along **both port and starboard sides of the gran
 
 From the lift/arrival network, a broad armored Gothic entrance leads toward the **Grand Reclusiam**, with the monumental Sigismund statue at the far ceremonial focus. The detailed placement of every passage between the elevator banks and front doors is still a working geometry.
 
-**Connections:** Twin personnel lift banks ↔ Sanctum observation positions ↔ formal Gothic entrance ↔ Grand Reclusiam. Separate controlled side approaches feed the VIP and ordinary ship-command corridors.
+**Connections:** Twin personnel lift banks ↔ Sanctum observation positions ↔ formal Gothic entrance ↔ Grand Reclusiam. On both **port and starboard**, flanking controlled passages connect the Sanctum's **VIP/liaison wings upward to the bridge/upper command region**. Separately, the leadership's **guarded Astartes lift** connects the **Grand Strategium directly upward to the bridge**, without passing through the guest rooms.
 
 ## 7.3.2 Grand Reclusiam — heart of worship
 
@@ -74,7 +74,7 @@ At the far, most tightly controlled end of the Inner Sanctum stands the **High R
 
 **Port and starboard flanking guest wings** belong on this broad Sanctum level, **outside** the Inner Sanctum. A handful of austere private suites, small meeting rooms and reception spaces accommodate allied commanders, visiting Astartes officers and Imperial dignitaries. Their normal routes rise toward the upper bridge complex via **controlled command passages** and give invited guests a supervised approach to the Strategium.
 
-**Connections:** Guest/liaison corridors ↔ authorized Strategium entry and **ordinary rising bridge approach**, but **not** the Marshal's private quarters, High Relic Vault or broad access to the Chaplaincy and archives.
+**Connections:** Both **port and starboard** guest/liaison corridors ↔ ordinary rising bridge-command approaches, and ↔ authorized Strategium access for a specifically invited council attendee. The dedicated **Astartes command lift** is instead reached from the **Grand Strategium itself**. Neither the guest corridors nor their bridge access lead freely into the Marshal's private quarters, High Relic Vault, Chaplaincy or archives.
 
 ## 7.3.9 A walk through the sacred level
 
