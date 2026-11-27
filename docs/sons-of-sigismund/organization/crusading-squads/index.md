@@ -1,37 +1,37 @@
 # 2.3 Crusading Squads
 
-<div class="archive-page-label">Sons of Sigismund · Two compact fighting formations</div>
+<div class="archive-page-label">Sons of Sigismund · Four eventual 20-Marine fighting formations</div>
 
-<span class="archive-status">Two founding formations established</span> <span class="archive-status open">Individual names and exact strengths open</span>
+<span class="archive-status">Two founding attachments recorded</span> <span class="archive-status open">Third and Fourth formations planned</span>
 
-The Sons of Sigismund organize their fighting brothers into small **Crusading Squads**, envisioned at **roughly 10–30 Space Marines per squad** as their strength develops. These are modest formations without any assumed company-size establishment, permanent Castellan, independent staff, vehicle pool or permanently attached specialist detachments.
+The Sons of Sigismund are organized around **four small Crusading Squads as their long-term goal**, each of **20 Space Marines total**: **one assigned Sword Brother** and **19 Initiates and Neophytes combined**. The exact Initiate/Neophyte mix remains undecided. No squad is a full fighting company, and there is no requirement for separate company headquarters or permanent support detachments.
 
-At founding there are **two attached Black Templars Crusader Squads**. We use **First Crusading Squad** and **Second Crusading Squad** as their **working organizational labels**. These are the same two attached formations, **not two new units in addition to them**. Exact headcounts are unconfirmed, and the 10–30 range is a **size direction**, not a final roster.
+**Only the First and Second formations existed at the founding**, as two attached Black Templars Crusader Squads. Squads III and IV are planned future formations, **not extra founded units**. Their labels are placeholders until their identities are developed.
 
 <div class="archive-grid two">
-  <a class="archive-card" href="first/"><span class="card-index">2.3.1 · Formation I</span><span class="card-title">First Crusading Squad</span><span class="card-copy">The first attached Crusader Squad, with two founding Sword Brethren fighting alongside it. Names and headcount are open.</span><span class="card-arrow">↗</span></a>
-  <a class="archive-card" href="second/"><span class="card-index">2.3.2 · Formation II</span><span class="card-title">Second Crusading Squad</span><span class="card-copy">The second attached Crusader Squad. No commander or Sword Brother assignment has yet been established.</span><span class="card-arrow">↗</span></a>
+  <a class="archive-card" href="first/"><span class="card-index">2.3.1 · Founded</span><span class="card-title">First Crusading Squad</span><span class="card-copy">Original attached squad; two Sword Brethren historically served alongside it. Long-term 20-Marine model remains a future target.</span><span class="card-arrow">↗</span></a>
+  <a class="archive-card" href="second/"><span class="card-index">2.3.2 · Founded</span><span class="card-title">Second Crusading Squad</span><span class="card-copy">Original attached squad; leader and veteran still unnamed. Long-term target is 20 Marines.</span><span class="card-arrow">↗</span></a>
+  <a class="archive-card" href="third/"><span class="card-index">2.3.3 · Planned</span><span class="card-title">Third Crusading Squad</span><span class="card-copy">Future 20-Marine squad; no personnel recorded or assigned yet.</span><span class="card-arrow">↗</span></a>
+  <a class="archive-card" href="fourth/"><span class="card-index">2.3.4 · Planned</span><span class="card-title">Fourth Crusading Squad</span><span class="card-copy">Future 20-Marine squad; no personnel recorded or assigned yet.</span><span class="card-arrow">↗</span></a>
 </div>
 
-## How a Crusading Squad works
+## How the Squads fit the Household
 
-The **Marshal commands the household as a whole**, directing its squads personally or through a brother given responsibility for a particular operation. These small formations can fight separately on nearby objectives or concentrate with his personal retinue. Assigning a warrior to lead in battle **does not automatically make him a permanent Castellan or create another command layer**.
+The **Marshal** leads the brotherhood, supported by his **Castellan** as second-in-command. The **Sword Brethren are part of the Marshal's Household** even when assigned to a Crusading Squad as senior mentor, adviser or battlefield leader. The long-term chart shows **one such brother per squad**, not four new veteran units under a separate command.
 
-A Crusading Squad consists of its actual **Initiates and Neophytes**, with any assigned veteran brother recorded by name when established. Vehicles, Apothecaries, Techmarines, banner bearers and other resources are **shared or assigned when needed**, not assumed as dedicated fixtures of every squad.
+The **six founding personal honor guards** remain members of the Household, alongside the other original Sword Brethren. Historically, **two** of the ten original Sword Brethren served alongside the First attached Crusader Squad, **one** was the designated duelist and **one** was held in reserve. These historical postings are **not silently rewritten** to fit the future one-per-squad plan.
 
-| Field | Current understanding |
+| Question | Agreed organizational direction |
 |---|---|
-| Organizational title | **Crusading Squad** (agreed terminology) |
-| Founding formations | **Two**, referring to the two original attached Crusader Squads |
-| Intended flexible size | **Roughly 10–30 Space Marines per squad**; not a fixed founding headcount |
-| Permanent allegiance of original attached squads | **Not yet sworn** |
-| Permanent company commander, support staff and vehicles | **None automatically assigned** |
-| Specific squad names, current strengths and personal rosters | **Open** |
+| Field formations at founding | **Two** attached Crusader Squads, represented as Squads I and II |
+| Intended eventual formations | **Four Crusading Squads** |
+| Target strength per squad | **20 total Space Marines** |
+| Target composition | **1 Sword Brother + 19 Initiates/Neophytes** |
+| Total planned squad strength | **80 Space Marines across four squads** (Sword Brethren included in those 80) |
+| Sword Brother's permanent allegiance | **Marshal's Household**, including when on squad duty |
+| Squad titles, personal rosters, Initiate/Neophyte ratio | **Open** |
+| Dedicated squad Castellan, HQ, specialists or vehicles | **Not automatically assigned** |
 
-## Assignment boundaries
+The original attached squad members were **not yet permanently sworn** to the new order at its founding. Future transfers, oaths and tabletop additions will be recorded here rather than assumed.
 
-The Marshal's **six personal Sword Brethren guards** remain part of the **Marshal's Household**, not extra members automatically attached to the squads. Two other founding Sword Brethren serve alongside the **First Crusading Squad**. The designated household duelist and the remaining reserved veteran are **not automatically assigned** to the Second Crusading Squad.
-
-This preserves the ten founding Sword Brethren without double-counting them. Their **founding appointments** remain documented under [Chapter Origins](../../history/founding.md#the-cruiser-and-first-muster).
-
-[First Crusading Squad →](first.md) · [Second Crusading Squad →](second.md) · [Organization Chart →](../chain-of-command.md) · [Marshal's Household →](../marshals-household.md)
+[First →](first.md) · [Second →](second.md) · [Third (planned) →](third.md) · [Fourth (planned) →](fourth.md) · [Overall Organization →](../chain-of-command.md)
