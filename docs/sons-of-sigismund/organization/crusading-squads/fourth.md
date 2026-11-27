@@ -20,4 +20,4 @@ The Sword Brother will **remain a member of the Marshal's Household**, serving t
 
 The personal squad name, individual brother names, exact Initiate-to-Neophyte proportions, battlefield duties and future campaign history will be recorded only as they are established. There is **no founding roster and no post-founding battle history** for this squad.
 
-[All Crusading Squads →](index.md) · [Third Crusading Squad →](first.md) · [Organization Chart →](../chain-of-command.md)
+[All Crusading Squads →](index.md) · [Third Crusading Squad →](third.md) · [Organization Chart →](../chain-of-command.md)
