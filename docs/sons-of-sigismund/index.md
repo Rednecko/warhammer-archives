@@ -58,6 +58,7 @@ The **Sons of Sigismund** are a homebrew **Black Templars crusading household** 
         <li><a href="#organization-recruitment">Recruitment and advancement</a></li>
         <li><a href="#organization-heraldry">Heraldry and honors</a></li>
         <li><a href="#organization-armor-schemes">Armor and paint schemes</a></li>
+        <li><a href="#organization-shared-support">Shared support and specialists</a></li>
       </ol>
     </li>
     <li><a href="#combat-doctrine">Combat doctrine</a></li>
@@ -146,6 +147,12 @@ The household retains weathered black armor, white pauldrons and Black Templars 
 The grimdark miniature palette uses neutral gray definition and battle wear, **not blue edge highlights**. Specific painting recipes remain working references, separate from in-universe rank markings.
 
 [Armor and painting →](organization/armor-schemes.md)
+
+### 2.7 Shared support and specialists {#organization-shared-support}
+
+The household shares its medical, forge, relic-custodianship, transport and voidship services across the four eventual Crusading Squads. **No squad automatically has a Castellan, permanent medical staff, forge team or dedicated vehicle complement.** The organizational register tracks responsibilities and open appointments without inventing extra founding personnel.
+
+[Shared support and specialist duties →](organization/shared-support.md)
 
 <div class="archive-strip"><strong>Historical founding roster?</strong> It remains in <a href="history/founding/">Chapter Origins</a>. These pages show the ongoing organization, assignments and working squad rosters as the army develops.</div>
 
