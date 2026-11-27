@@ -100,30 +100,34 @@ The original muster brought together the **Marshal, founding Chaplain, Emperor's
 
 ## 2. Chapter Organization {#chapter-organization}
 
-The Sons of Sigismund field **a small Marshal's Household and two compact Crusading Squads**—the same two original attached Crusader Squads, not extra formations. We envision each Crusading Squad at **roughly 10–30 Space Marines**, with exact founding numbers still to be decided.
+The Sons of Sigismund are a **small Black Templars household** led by the **Marshal** with a **Castellan as second-in-command**. The **Sword Brethren** remain Household veterans, even when assigned to the order's frontline Crusading Squads.
+
+The **long-term goal is four Crusading Squads of 20 Space Marines each**, with **one Sword Brother and 19 Initiates/Neophytes in each squad**. This is a future force structure, not a claim that all 80 Marines are currently mustered. Only **two attached Crusader Squads** are recorded at the founding, with squads III and IV reserved for future growth.
 
 ### 2.1 Overall organization and ranks {#overall-organization-and-ranks}
 
-The Marshal holds central command under High Marshal Helbrecht. The Chaplain and Emperor's Champion have distinct spiritual and sacred combat duties; Sword Brethren may be veteran mentors, guards or combat leaders. The full chart distinguishes command authority from rank and special calling.
+A simple command chart runs **Marshal → Castellan → Marshal's Household → Sword Brethren → four Crusading Squads**. The Chaplain and Emperor's Champion retain distinct sacred duties; the Sword Brethren's squad assignments do not sever their Household affiliation. High Marshal Helbrecht remains parent-Chapter authority, rather than a command tier inside the household's chart.
 
-[Open overall chart and rank structure →](organization/chain-of-command.md)
+[Overall chart and rank structure →](organization/chain-of-command.md)
 
 ### 2.2 The Marshal's Household {#the-marshals-household}
 
-The Marshal, founding Chaplain, Emperor's Champion and **six personal Sword Brethren guards** form the command core. This is **not a third Crusading Squad**. Personal assignments and unfilled support offices have their own register.
+The command core includes the Marshal, the Castellan position, the founding Chaplain and Emperor's Champion, **six personal Sword Brethren guards**, and other Household veterans. Individual assignments and names remain in the Household register, rather than being duplicated in the founding narrative.
 
-[Open the Marshal's Household roster →](organization/marshals-household.md)
+[Marshal's Household roster →](organization/marshals-household.md)
 
 ### 2.3 Crusading Squads {#crusading-squads}
 
 <div class="archive-grid two">
- <a class="archive-card" href="organization/crusading-squads/first/"><span class="card-index">2.3.1 · Squad I</span><span class="card-title">First Crusading Squad</span><span class="card-copy">One attached Crusader Squad with two of the founding Sword Brethren serving alongside. Names and sizes still open.</span><span class="card-arrow">↗</span></a>
- <a class="archive-card" href="organization/crusading-squads/second/"><span class="card-index">2.3.2 · Squad II</span><span class="card-title">Second Crusading Squad</span><span class="card-copy">One attached Crusader Squad; no permanent veteran commander or individual roster yet established.</span><span class="card-arrow">↗</span></a>
+ <a class="archive-card" href="organization/crusading-squads/first/"><span class="card-index">2.3.1 · Founded</span><span class="card-title">First Crusading Squad</span><span class="card-copy">One original attached Crusader Squad with two founding Sword Brethren serving alongside.</span><span class="card-arrow">↗</span></a>
+ <a class="archive-card" href="organization/crusading-squads/second/"><span class="card-index">2.3.2 · Founded</span><span class="card-title">Second Crusading Squad</span><span class="card-copy">One original attached Crusader Squad; senior veteran assignment still open.</span><span class="card-arrow">↗</span></a>
+ <a class="archive-card" href="organization/crusading-squads/third/"><span class="card-index">2.3.3 · Planned</span><span class="card-title">Third Crusading Squad</span><span class="card-copy">Future 20-Marine formation, with an assigned Household Sword Brother.</span><span class="card-arrow">↗</span></a>
+ <a class="archive-card" href="organization/crusading-squads/fourth/"><span class="card-index">2.3.4 · Planned</span><span class="card-title">Fourth Crusading Squad</span><span class="card-copy">Future 20-Marine formation, with an assigned Household Sword Brother.</span><span class="card-arrow">↗</span></a>
 </div>
 
-These are **small squad-level formations**, not companies with permanent staffs or attached support units. The six guards, two assigned veterans, one household duelist and one reserve are all **within the same original ten Sword Brethren**.
+These are **small squad-scale formations**, not companies with their own permanent staff and supporting detachments. The 20-Marine goal **includes** the Sword Brother assigned to each squad. The historical **ten founding Sword Brethren**—six honor guards, two with the First founding squad, one duelist and one reserve—are not doubled or silently reassigned.
 
-[How the two Crusading Squads work →](organization/crusading-squads/index.md)
+[Crusading Squad rosters and future formations →](organization/crusading-squads/index.md)
 
 ### 2.4 Recruitment and advancement {#organization-recruitment}
 
