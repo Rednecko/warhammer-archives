@@ -26,14 +26,18 @@ The wiki is a living narrative. Status labels prevent old drafts, proposed figur
 - Sword Brethren gain an **optional, permanent yellow-heraldry privilege** through their earned standing.
 - The **Litany of the Blade** is established; its final line is used **only at induction**.
 - The order's current fighting core is **close-knit and concentrated**, with its Marshal leading personally from the front.
+- The established **organizational rank structure places a Castellan below the Marshal as deputy**; no named bearer or founding appointment has yet been approved.
+- **Sword Brethren remain members of the Marshal's Household** even when assigned to fight with a Crusading Squad.
+- The **long-term target is four Crusading Squads of 20 Space Marines each**, with **one Household Sword Brother and 19 Initiates/Neophytes per squad** (exact mix open). This is a future 80-Marine field target, **not the founding muster**.
+- Only **two Crusader Squads** are recorded in the original founding force; formations III and IV are reserved for future growth.
 - **Zero post-founding tabletop battles have been recorded.**
 
 ## Working / proposed material
 
 - High Chaplain in Terminator armor, closely involved in frontline sermons and reliquary rites;
-- Castellan and wider command details;
+- The Castellan's name, individual biography and exact historical appointment;
 - Extensive three-zone ship plan, including four future Brotherhood complexes, two combat arenas, planned hangar complements and allied accommodation;
-- Longer-term increase in household strength;
+- Timing, recruitment and personal roster necessary to reach the approved four-by-twenty target;
 - Guiding phrase **“Beacon of Faith and Wrath”** as possible formal motto;
 - Oath of Custodianship wording and commemorative prayers.
 
@@ -51,7 +55,7 @@ The wiki is a living narrative. Status labels prevent old drafts, proposed figur
 | Area | Pending decisions |
 |---|---|
 | Founder | Name, final biography, how he responds to failure |
-| Command | Champion, Chaplain, Castellan and Sword Brethren names |
+| Command | Champion, Chaplain, Castellan and Sword Brethren names; how the First Squad's historical two-veteran attachment evolves into the eventual one-per-squad model |
 | Founding | Date, Armageddon sector, regional Warboss and relic provenance |
 | Heraldry | Formal motto, warcry, final full insignia chart |
 | Membership | Precise allegiance and relic-oath wording |
