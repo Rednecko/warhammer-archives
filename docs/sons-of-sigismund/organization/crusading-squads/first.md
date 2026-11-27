@@ -6,7 +6,7 @@
 
 The **First Crusading Squad** is our name for the **first attached Black Templars Crusader Squad** serving the new order. It is a **small, flexible formation**, envisioned at roughly **10–30 Space Marines** as the household grows—not a company with its own staff or dedicated support units.
 
-Two of the household's **original ten permanently sworn Sword Brethren** are established as serving alongside this squad. Their individual names and duties are still to be developed.
+Two of the household's **original ten permanently sworn Sword Brethren** are established as serving alongside this squad **at the founding**. Their individual names and duties are still to be developed. The **long-term four-squad organization** envisions **one Sword Brother per 20-Marine Crusading Squad**, but this does **not** erase the First Squad's historical two-veteran assignment.
 
 ## Personnel register
 
@@ -16,7 +16,8 @@ Two of the household's **original ten permanently sworn Sword Brethren** are est
 | Crusader Squad | **One original attached squad**; individual Initiates and Neophytes unknown |
 | Sword Brother serving alongside the squad | **One** unnamed founding veteran |
 | Second Sword Brother serving alongside the squad | **One** unnamed founding veteran |
-| Exact strength | **Open**; roughly 10–30 is the intended scale, not a confirmed muster |
+| Founding strength | **Open**; neither headcount nor composition has been established |
+| Eventual target | **20 Marines total**: 1 Household Sword Brother on squad duty + 19 Initiates/Neophytes; exact proportions open |
 | Formal squad name / personal heraldry | **Open** |
 
 The two founding Sword Brethren above are **already included in the original ten**. They are **not** an additional detachment or the beginnings of a separate command staff. The original Crusader Squad's warriors are **attached**, rather than permanently sworn to the Sons at the founding.
@@ -29,4 +30,4 @@ The squad answers to the Marshal's command. The Marshal, his guards or an approp
 
 The future roster will record its name, squad leader, individual Initiates and Neophytes, equipment, temporary or permanent allegiance, and any actual tabletop history. **No post-founding battle has yet been played.**
 
-[Second Crusading Squad →](second.md) · [Both Crusading Squads →](index.md) · [Marshal's Household →](../marshals-household.md)
+[Second Crusading Squad →](second.md) · [Third (planned) →](third.md) · [Fourth (planned) →](fourth.md) · [Both Crusading Squads →](index.md) · [Marshal's Household →](../marshals-household.md)
