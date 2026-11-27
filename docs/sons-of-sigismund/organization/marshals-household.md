@@ -4,13 +4,14 @@
 
 <span class="archive-status">Core appointments established</span> <span class="archive-status open">Personal names and specialist postings pending</span>
 
-The **Marshal's Household** is the small command and personal retinue at the center of the Sons of Sigismund. It is **not a third Crusading Squad**, nor is every specialist aboard *The Righteous Crusader* counted as a personal guard. The Marshal leads and fights alongside his brothers rather than directing a remote network of formations.
+The **Marshal's Household** is the small command and personal retinue at the center of the Sons of Sigismund. The **Castellan serves directly under the Marshal as second-in-command** within the intended rank structure, although this office has no named bearer or established historical commission date. The **Sword Brethren remain Household veterans**, even when assigned to serve within individual Crusading Squads. It is **not a third Crusading Squad**, nor is every specialist aboard *The Righteous Crusader* counted as a personal guard. The Marshal leads and fights alongside his brothers rather than directing a remote network of formations.
 
 ## 2.2.1 Household command register
 
 | Appointment | Established presence | Name / bearer | Notes |
 |---|---|---|---|
 | **Marshal** | 1 | *To be named* | Founded the household after his pre-commission Armageddon campaign; carries the recovered sword |
+| **Castellan** | **Role agreed; bearer open** | *Not yet named* | Second-in-command in the planned hierarchy; not retroactively added to founding muster |
 | **Emperor's Champion** | 1 | *To be named* | Special sacred combat calling; not an ordinary deputy or the designated household duelist |
 | **Founding Chaplain** | 1 | *To be named* | Spiritual authority and rites; possible future High Chaplain profile remains under review |
 | **Personal Sword Brethren honor guard** | **6** | *All six unnamed* | Permanent original cadre; a mix of earlier companions and later appointments |
@@ -36,12 +37,12 @@ The household also benefits from the services of the **designated Sword Brother 
 
 The founding **battle standard** is intended for a **Crusader Ancient** in the miniature collection; the specific bearer, his place on the active roster, and any assignment to the Household or a Crusading Squad are **not yet established**.
 
-**Techmarines, Apothecaries, forge staff, relic archivists, shipmaster and serfs** support the order and its flagship, but none should be counted as an additional founding officer without a deliberate decision. A **Castellan** could eventually serve as delegated command support; no specific founding Castellan has been approved.
+**Techmarines, Apothecaries, forge staff, relic archivists, shipmaster and serfs** support the order and its flagship, but none should be counted as an additional founding officer without a deliberate decision. The **Castellan** is the agreed second-in-command position in the household hierarchy, but his name, individual identity and historical appointment remain undecided. The **four eventual Crusading Squads** each have a target of one Household Sword Brother serving among a total of 20 Marines. This is an assignment of existing Household veterans, not independent membership in four separate veteran formations.
 
 ## 2.2.4 Household fighting role
 
 The household is the Marshal's immediate command, guardian retinue and personal fighting nucleus. Its members may accompany either small Crusading Squad or form the center of a combined operation. That does **not** mean every brother or specialist reports through the Emperor's Champion, nor does it fix the future composition of every mission.
 
-<div class="archive-strip"><strong>Roster boundary:</strong> The Marshal's Household is a compact command group. Its known honor guard comprises <strong>six</strong> men, not a huge permanent force. The first two Crusading Squads are separately documented under <a href="../crusading-squads/">Crusading Squads</a>.</div>
+<div class="archive-strip"><strong>Roster boundary:</strong> The Marshal's Household is a compact command group. Its known honor guard comprises <strong>six</strong> men, not a huge permanent force. The first two Crusading Squads are documented as founding attachments, while a Third and Fourth are planned under <a href="../crusading-squads/">Crusading Squads</a>.</div>
 
 [Overall organization chart →](chain-of-command.md) · [Crusading Squads →](crusading-squads/index.md) · [Founding muster →](../history/founding.md#the-cruiser-and-first-muster)
