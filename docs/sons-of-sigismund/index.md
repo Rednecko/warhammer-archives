@@ -188,7 +188,7 @@ The household's biographical record remains deliberately modest until its origin
 
 **The Founding Marshal** is the central established character: a reserved, austere, highly capable swordsman who fights beside the same brothers and can deliver an extraordinary exhortation when a defense seems lost. His early life and response to failure remain open.
 
-The **Emperor's Champion**, **founding Chaplain** and the veterans who serve beside the Marshal have established places in the force, but their individual names and histories have not yet been approved. The proposed Castellan is still a working idea.
+The **Emperor's Champion**, **founding Chaplain** and the veterans who serve beside the Marshal have established places in the force, but their individual names and histories have not yet been approved. The Castellan's place as deputy is established in the organizational hierarchy, but his identity and commissioning history remain open.
 
 [Founding Marshal's biography →](characters/founding-marshal.md) · [Character dossier index →](characters/command-household.md) · [Sword Brethren dossier index →](characters/sword-brethren.md)
 
