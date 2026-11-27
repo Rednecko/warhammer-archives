@@ -79,9 +79,15 @@ nav:
           - "6.1 Founding relics": sons-of-sigismund/relics/index.md
           - "6.2 Custodianship": sons-of-sigismund/relics/custodianship.md
       - "7. Fleet and Fortress-Monastery":
-          - "7.1 The Righteous Crusader": sons-of-sigismund/fleet/righteous-crusader.md
-          - "7.2 Deck-by-deck guide": sons-of-sigismund/fleet/deck-guide.md
-          - "7.3 Movement and access": sons-of-sigismund/fleet/operational-routes.md
+          - "7.1 The Righteous Crusader — Overview": sons-of-sigismund/fleet/righteous-crusader.md
+          - "7.2 Upper Command and Bridge": sons-of-sigismund/fleet/upper-command.md
+          - "7.3 Sanctum of Sigismund": sons-of-sigismund/fleet/sanctum.md
+          - "7.4 Brotherhood Deck": sons-of-sigismund/fleet/brotherhood.md
+          - "7.5 Grand Hangar and Logistics": sons-of-sigismund/fleet/hangar-logistics.md
+          - "7.6 Mortal Crew and Services": sons-of-sigismund/fleet/mortal-crew.md
+          - "7.7 Engineering and Drives": sons-of-sigismund/fleet/engineering.md
+          - "7.8 Life, Movement and Access": sons-of-sigismund/fleet/operational-routes.md
+          - "7.9 Deck Register and Diagram": sons-of-sigismund/fleet/deck-guide.md
       - "9. Campaigns and Battles":
           - "9.1 Campaign chronicle": sons-of-sigismund/campaigns/index.md
           - "9.2 Armageddon theater": sons-of-sigismund/campaigns/armageddon.md
