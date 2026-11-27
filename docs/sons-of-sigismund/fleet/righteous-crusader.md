@@ -52,6 +52,7 @@ The ship is **far larger than the Sons of Sigismund themselves**. A compact Asta
 | Allied accommodation | ~200 per wing, plus overflow for ~500 combined | Not a permanent allied garrison |
 | Astartes Apothecarion | 30–40 casualty surge target | Medical *planning capacity*, not simultaneous surgeries |
 | Bridge staffing | ~25–40 during major operations, working estimate | Real bridge complement unapproved |
+| Supply endurance | About 1–2 years of routine stores in favorable conditions | **Unverified design aspiration**, not a guaranteed operating capability |
 
 The design must leave room for a larger future order **without stating that the present household is already that size**. At founding only **two attached Crusader Squads** and the approved permanent cadre are documented; the present organizational intention is **four eventual Crusading Squads of twenty**.
 
