@@ -26,7 +26,7 @@ The Marshal's personal guard draws upon old comrades from Armageddon and veteran
 
 ## Other future personalities
 
-A Castellan, Techmarine, Apothecary, Ancient and shipboard officers may eventually receive named biographies. The timing of appointments and their personal stories must be established before they are presented as characters in the founding cast.
+The Castellan's position as deputy has been approved, although his name and appointment history are open. The Castellan, Techmarine, Apothecary, Ancient and shipboard officers may receive named biographies once their personal stories are established; no unapproved founding appointments are implied. The timing of appointments and their personal stories must be established before they are presented as characters in the founding cast.
 
 !!! note "Status"
     The name **Garran Voss** appeared as a provisional possibility in an older source. It remains **unapproved** and is not assigned to any role here.
