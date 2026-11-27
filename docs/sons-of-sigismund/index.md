@@ -209,11 +209,20 @@ As the household develops, its reliquary will record **artifact histories, custo
 
 ## 7. Fleet and fortress-monastery {#fleet-and-fortress-monastery}
 
-The Sons' flagship, ***The Righteous Crusader***, is an existing Black Templars **strike cruiser** assigned and adapted for their work. It serves as warship, mobile fortress-monastery, repository of Imperial memory and home for the close-knit brotherhood.
+The Sons' home, ***The Righteous Crusader***, is an existing Black Templars **strike cruiser**, refitted as a mobile fortress-monastery, warship and reliquary after the Marshal's commission. Its design is developed in an extensive **dedicated ship dossier**, with a top-to-bottom architectural walkthrough covering **individual rooms, their uses, adjacencies and access routes**.
 
-All **ship layout, decks, crew routes, hangars, reliquary spaces and capacity planning** belong in the dedicated fleet dossier—not in the founding or organizational entries.
+The design features **three principal Astartes levels**, plus a high-forward bridge region and extensive mortal service and engineering decks. These are broad **functional regions**, not a claim that a vast voidship contains only six literal floors. We have preserved the working architecture from *Volume I* without treating tentative ship capacity as the household's present troop count.
 
-[The Righteous Crusader →](fleet/righteous-crusader.md) · [Deck-by-deck guide →](fleet/deck-guide.md)
+| Floor or region | Major rooms and services |
+|---|---|
+| [**7.2 Upper Command and Bridge**](fleet/upper-command.md) | Shipmaster's bridge, command approaches, Navigator domain |
+| [**7.3 Sanctum of Sigismund**](fleet/sanctum.md) | Reclusiam, Hall of Blades, Hall of Vigil, Strategium, Inner Sanctum, archives and High Relic Vault |
+| [**7.4 Brotherhood Deck**](fleet/brotherhood.md) | Four residential suites, personal armories, sparring, veteran wings, communal hall, upper embarkation, allied wings |
+| [**7.5 Hangar and Logistics**](fleet/hangar-logistics.md) | Thunderhawk loading, cargo, two training arenas, motor pool, Apothecarion, forge and relic examination |
+| [**7.6 Mortal Crew and Services**](fleet/mortal-crew.md) | Crew quarters, messes, service routes, human support |
+| [**7.7 Engineering and Drives**](fleet/engineering.md) | Deeper engines, power, environmental machinery and maintenance systems |
+
+[**Open the full flagship dossier →**](fleet/righteous-crusader.md) · [Movement and daily operations →](fleet/operational-routes.md) · [Existing concept diagram and register →](fleet/deck-guide.md)
 
 ## 8. Allies and Imperial relations {#allies-and-imperial-relations}
 
