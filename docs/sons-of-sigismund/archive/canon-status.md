@@ -37,6 +37,8 @@ The wiki is a living narrative. Status labels prevent old drafts, proposed figur
 - High Chaplain in Terminator armor, closely involved in frontline sermons and reliquary rites;
 - The Castellan's name, individual biography and exact historical appointment;
 - Extensive three-zone ship plan, including four future Brotherhood complexes, two combat arenas, planned hangar complements and allied accommodation;
+- Bridge visual direction: elevated Marshal's throne-like command dais with guards, large live tactical holodisplay, banks of human workstations and an armored panoramic orbital viewport (inspired by *Space Marine 2* and animated Warhammer scenes; final art/layout open);
+- Upper command circulation: **two flanking corridors down to the port/starboard Sanctum VIP wings** and a **separate guarded Astartes lift directly between the bridge and the Sanctum's Grand Strategium**;
 - Timing, recruitment and personal roster necessary to reach the approved four-by-twenty target;
 - Guiding phrase **“Beacon of Faith and Wrath”** as possible formal motto;
 - Oath of Custodianship wording and commemorative prayers.
@@ -59,7 +61,7 @@ The wiki is a living narrative. Status labels prevent old drafts, proposed figur
 | Founding | Date, Armageddon sector, regional Warboss and relic provenance |
 | Heraldry | Formal motto, warcry, final full insignia chart |
 | Membership | Precise allegiance and relic-oath wording |
-| Fleet | Deck dimensions, ship complement, operating procedures, final plan |
+| Fleet | Literal deck dimensions, named Shipmaster and Navigator, bridge officers and guard posts, final visual plan, ship complement and operating procedures |
 | Campaigns | First real opponent, mission, result, participants and consequences |
 
 This register records **editorial decisions**, not a list of official Games Workshop canon.
