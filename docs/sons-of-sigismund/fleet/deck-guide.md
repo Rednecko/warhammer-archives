@@ -1,81 +1,73 @@
-# Deck guide: The Righteous Crusader
+# 7.9 Deck Register, Capacity Notes and Planning Diagram
 
-<div class="archive-page-label">Ship architecture · Conceptual layout</div>
+<div class="archive-page-label">The Righteous Crusader · Summary reference for future floor plans</div>
 
-<span class="archive-status">Working design</span> <span class="archive-status open">Not to scale</span>
+<span class="archive-status">Historic working archive retained</span> <span class="archive-status open">Geometry, scale and room sizes not final</span>
 
-*The Righteous Crusader* is conceived as a functioning strike cruiser wrapped around an Astartes warrior-monastery. Its three principal household levels are **functional zones**, not a claim that an Imperial warship possesses only three literal decks. The bridge and extensive mortal crew spaces sit above, below and around them.
+This is the **compact architectural register** for *The Righteous Crusader*. The original 19-page working ship archive has now been expanded into **separate room-by-room wiki pages** for each major deck region. Use those articles for the detailed walkway and room connections; this page prevents duplicating the full prose while preserving the counts, the conceptual drawing and important continuity rules.
 
-<div class="archive-metrics">
-  <div class="archive-metric"><strong>03</strong><span>Principal household zones</span></div>
-  <div class="archive-metric"><strong>04</strong><span>Planned Brotherhood suites</span></div>
-  <div class="archive-metric"><strong>01</strong><span>Central reliquary</span></div>
-</div>
+The **three principal Space Marine levels** are the **Sanctum**, **Brotherhood Deck** and **Grand Hangar/Logistics**. Above or forward lies an upper bridge complex; crew services and engineering continue on multiple deeper levels. The labels here are functional **regions**, not certified literal deck numbers.
 
 ![Conceptual deck-zone diagram of The Righteous Crusader](../../assets/images/crusader-deck-schematic.svg)
 
-*Visual planning diagram: functional zones only, not literal ship geometry or final room dimensions.*
+*Existing conceptual zone sketch. It does not depict all six major regions, final room geometry or a surveyed Imperial strike cruiser.*
 
-## I. Sanctum of Sigismund
+## I. Sanctum of Sigismund {#i-sanctum-of-sigismund}
 
-The sanctum is the highest expression of the household's sacred and command identity. It is ceremonial, yet guarded; there is a progressively stricter boundary between the gathered brotherhood and the Marshal's private household.
+The Sanctum contains the **Grand Reclusiam**, the **port Hall of Blades**, the **starboard Hall of Vigil**, the **Grand Strategium behind the Reclusiam's paired doors**, and the guarded **Inner Sanctum** with Marshal's rooms, the six household guards, proposed Castellan suite, Archives, Chaplaincy, private Council Chamber and High Relic Vault. VIP wings and the command-lift connection are kept distinct.
 
-### Grand Reclusiam
+[Full Sanctum of Sigismund room walkthrough →](sanctum.md)
 
-Entered from grand lifts through an armored Gothic threshold, the **Grand Reclusiam** is the assembly cathedral. It is planned to stand roughly 160 armored warriors in an open floor rather than seat them in permanent pews. A monumental image of Sigismund rises behind the Chaplain's pulpit. The hall serves mass, vows, pre-battle addresses and remembrance, **not** day-to-day ship navigation.
+## II. Brotherhood Deck {#ii-brotherhood-deck}
 
-### The sacred side halls
+Four originally proposed accommodation complexes contain an entrance barracks, central shared floor, Neophyte bunk section, Initiate alcoves, equipment/hygiene passage, dedicated armory, sparring room and supervising Sword Brother chamber. Shared training galleries connect mirrored pairs. Two veteran wings and the single open Great Brotherhood Hall occupy the same broad residential level. Upper Thunderhawks, pod launch galleries, allied wings and Valkyrie-capable positions operate at this elevation.
 
-**Port — Hall of Blades.** A consecrated dueling chamber for the Trial of Swords, with controlled access for the candidate, mentor, officiants and witnesses. This is neither a normal sparring room nor a large training arena.
+[Full Brotherhood Deck room walkthrough →](brotherhood.md)
 
-**Starboard — Hall of Vigil.** A solemn chamber for lying in state, private mourning, homage and the ritual recovery of relics from fallen brothers.
+## III. Grand Hangar and Logistics {#iii-grand-hangar-and-logistics}
 
-### Grand Strategium
+The lower central deployment platform holds **two planned Thunderhawk positions**. Broad vehicle routes continue to the **motor pool, stores and protected magazines**. Two independent large arenas have their **fighting floors** here and observation at Brotherhood elevation. Separate **Astartes Apothecarion**, **Mortal Medicae**, **Techmarine forge** and adjacent **relic intake/quarantine/examination** complete the medical and industrial zone.
 
-**Two guarded doors behind the Reclusiam's pulpit and Sigismund statue** lead to the **Grand Strategium**. A central hololithic tactical table anchors the order's war room. Commanders plan deployments and allied operations here; an authorized visitor may attend a briefing without obtaining unrestricted access deeper into the sanctum.
+[Full Hangar and Logistics room walkthrough →](hangar-logistics.md)
 
-The Strategium has a controlled command lift leading toward the upper bridge complex. **It is not the bridge or the Marshal's private council chamber.**
+## IV. Bridge and upper ship command
 
-### The Inner Sanctum
+High and forward lie the ship's human-operated **bridge**, Shipmaster's normal bridge approach, separate Navigator domain and the **dedicated command lift from the Sanctum Strategium**.
 
-Beyond the Strategium is a guarded central arch into the restricted Inner Sanctum. The Marshal's suite, guard station, Castellan's proposed quarters and Grand Archives lie to port; the Chaplaincy, private Council Chamber and private arsenal lie to starboard. The **High Relic Vault** stands at the most secure end of the sequence.
+[Full Upper Command and Bridge walkthrough →](upper-command.md)
 
-The **six personal bodyguards** belong to the Marshal's household and do not take up rooms in the proposed thirty general veteran chambers.
+## V. Mortal crew and services
 
-## II. Brotherhood deck
+The permanent mortal personnel live and work across **several** decks with their own quarters, messes, shrines, maintenance passages and service lifts; they are not confined to the allied barracks and do not share the Marshal's chambers.
 
-This is the inhabited heart of the order: sleeping, study, maintenance, routine training and brotherhood life.
+[Full Mortal Crew and Services walkthrough →](mortal-crew.md)
 
-Four larger **Crusader Brotherhood complexes** are envisioned for the ship's future capacity. They are **spaces** in a ship design, **not proof that four full Brotherhoods existed at the first muster**.
+## VI. Engineering and drives
 
-The working layout of one complex contains twenty Neophyte bunks and ten Initiate alcoves, with lounge space, armory, equipment/hygiene passage, a squad sparring room and a supervising Sword Brother's chamber. Whether all rooms are occupied at founding is an entirely separate roster question.
+Deep/sternward engineering houses ship propulsion, major power, life support and related technical services. It is separate from the Astartes forge on the Logistics Deck.
 
-The deck also contains proposed veteran quarters in two wings, the **Great Brotherhood Hall** for communal gathering, and access to two large combat training arenas extending into the lower level. Those arenas have separate training-only command galleries.
+[Full Engineering and Drives walkthrough →](engineering.md)
 
-!!! info "Room-function distinction"
-    **Hall of Blades** = sacred formal duels. **Brotherhood sparring rooms** = daily drills. **Two large arenas** = major combat exercises. **Training C&C rooms** = arena oversight. None of these is interchangeable.
+## Original working capacities
 
-## III. Grand hangar and logistics
+| Space | Planning figure | Essential qualification |
+|---|---|---|
+| Grand Reclusiam | ~160 standing Astartes | Not founding troop strength |
+| Great Brotherhood Hall | ~160 seated | One room with open arches, not several smaller halls |
+| Four Brotherhood suites | 20 Neophyte berths + 10 Initiate alcoves **each** | Original **30-berth suite design**; *later* military goal is 20 Marines **per** Crusading Squad |
+| Veteran wings | 15 rooms on each side, **30 total** | Marshal's six personal bodyguards sleep elsewhere |
+| Main arena pair | 2 independent, double-height halls | Lower fighting floors / upper training C&C |
+| Thunderhawk positions | 4: two lower, one upper port, one upper starboard | Position plan, not confirmed aircraft complement |
+| Drop Pods | 12: 3 ready + 3 reserve **per side** | **Six launch-ready**, not twelve in firing tubes |
+| Valkyrie-capable positions | 6: three per side | Allied servicing capacity, not owned aircraft |
+| Allied quarters | ~200 each wing; ~500 surge model | Does not describe permanent mortal crew |
+| Apothecarion | 30–40 wounded Astartes surge planning | Not simultaneous surgical stations |
+| Ship's bridge | ~25–40 mortal/servitor watch figure | Informal working estimate, not approved complement |
 
-The immense central hangar rises through multiple elevations. Two Thunderhawk pads are planned at the lower level and two at the upper level, while separate freight and personnel routes protect embarkation flow.
+## Mandatory continuity distinctions
 
-Working estimates include **twelve Drop Pods** total (six ready and six in reserve) and **six Valkyrie-capable positions** for allied operations. These are **provisional hangar design figures**, not an inventory of the founding army or a promise that all landing spaces are always available.
+The **Grand Reclusiam** is a worship hall. The **Grand Strategium** is the operational war room **behind its paired doors**. The **bridge** is ship command. The **Marshal's Council Chamber** is private. The **Hall of Blades** is a ceremonial dueling hall, and the **two large arenas** and everyday **Brotherhood sparring rooms** are different facilities. The **training C&C rooms** command exercises only. **Relics are processed below** before entering the upper sanctum. **Crew, allied visitors and Marines have deliberately separate access routes**.
 
-The lower complex also houses motor pool and vehicle routes, stores and magazines, forge facilities, the **Apothecarion**, separate mortal medical care, and **relic reception, quarantine and examination**. Recovered artifacts enter this system before proceeding to a protected archive or vault.
+The ship's literal deck count, hull geometry, launch tube orientation, hangar clearances, exact inventory, accommodations in use and personnel roster all remain **open**. The source record should be read as a **working architectural continuity archive**, not a finalized engineering specification.
 
-## IV. Bridge, crew and engineering
-
-The bridge belongs high and forward in a protected command superstructure. A human **Shipmaster** and bridge officers handle ordinary navigation, weapons coordination and ship operations under the Marshal's authority. A Navigator has separate specialist facilities.
-
-Thousands of mortal ratings, serfs, officers, Mechanicus specialists and servitors may be needed for a vessel of this type, but **the permanent crew total is unconfirmed**. Crew habitation is a multideck region, with separate service corridors and lifts. Main engineering is deeper and aft; the household Techmarine's forge does not replace the ship's engines or crew's departments.
-
-## What remains provisional
-
-- Exact literal deck numbering, hull size and silhouette;
-- Final location and geometry of launch bays and Drop Pod tubes;
-- Thunderhawk and Valkyrie positioning clearances;
-- Actual personnel, auxiliary craft and vehicles;
-- Bridge and crew complements, supply endurance and stores;
-- Guard postings, archive layout and detailed relic-security procedures.
-
-[Flagship overview →](righteous-crusader.md) · [Movement and security →](operational-routes.md)
+[Start at the uppermost bridge →](upper-command.md) · [Return to flagship overview →](righteous-crusader.md) · [Operational routes →](operational-routes.md)
