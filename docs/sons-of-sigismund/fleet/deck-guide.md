@@ -63,6 +63,7 @@ Deep/sternward engineering houses ship propulsion, major power, life support and
 | Allied quarters | ~200 each wing; ~500 surge model | Does not describe permanent mortal crew |
 | Apothecarion | 30–40 wounded Astartes surge planning | Not simultaneous surgical stations |
 | Ship's bridge | ~25–40 mortal/servitor watch figure | Informal working estimate, not approved complement |
+| Supplies and endurance | ~1–2 years of routine stores under favorable, non-intensive conditions | Working aspiration; no detailed consumption or capacity verification |
 
 ## Mandatory continuity distinctions
 
