@@ -24,7 +24,7 @@ Two main personnel elevator banks flank the hangar—**port and starboard**—ra
 
 ## 7.5.3 Central logistics corridor, cargo holds and magazines
 
-A reinforced industrial thoroughfare leads **inward from the hangar platform** toward the main cargo system. It is wide enough for tanks, vehicle transport and heavy stores. Storage includes ordinary food, water, medical goods, spare machinery, replacement parts, ammunition and campaign supplies for both Astartes and their supporting mortal population.
+A reinforced industrial thoroughfare leads **inward from the hangar platform** toward the main cargo system. It is wide enough for tanks, vehicle transport and heavy stores. Storage includes ordinary food, water, medical goods, spare machinery, replacement parts, ammunition and campaign supplies for both Astartes and their supporting mortal population. The source proposes **roughly one to two years of routine endurance under favorable, non-intensive conditions** as a *design aspiration*; actual volume, consumption and resupply assumptions have not been verified.
 
 Dangerous ammunition and warheads belong in **protected segregated magazines**, not beside living quarters or casually next to the Techmarine's personal chamber. **Service and freight corridors** run independently of the primary pedestrian passages. The cargo route is a **logistical spine**, not a mandatory shortcut between every deck.
 
