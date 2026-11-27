@@ -36,9 +36,9 @@ The ship is **far larger than the Sons of Sigismund themselves**. A compact Asta
 
 ## Established and working planning figures
 
-<box class="archive-strip">
+<div class="archive-strip">
   The capacities below are **from the original architectural working draft**, not an authenticated list of equipment aboard a named Imperial Navy hull or the Sons' founding military roster.
-</box>
+</div>
 
 | Feature | Architectural concept | Reality/status |
 |---|---|---|
