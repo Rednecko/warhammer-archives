@@ -4,7 +4,7 @@
 
 <span class="archive-status">Second founding squad attachment established</span> <span class="archive-status open">Leadership and individual roster open</span>
 
-The **Second Crusading Squad** is the **second attached Black Templars Crusader Squad** at the order's founding. Like its counterpart, it is a **small formation intended for roughly 10–30 Space Marines**, not a large standing formation. Its **long-term target is 20 Marines**: one Sword Brother assigned from the Marshal's Household and 19 Initiates and Neophytes in a mix still to be decided. This target is **not** a documented founding headcount.
+The **Second Crusading Squad** is the **second attached Black Templars Crusader Squad** at the order's founding. Like its counterpart, it is a **small formation with an eventual target of 20 Space Marines**, not a large standing formation. Its **long-term target is 20 Marines**: one Sword Brother assigned from the Marshal's Household and 19 Initiates and Neophytes in a mix still to be decided. This target is **not** a documented founding headcount.
 
 ## Personnel register
 
