@@ -231,3 +231,9 @@ body { background:
 .org-chart-foot { max-width:48rem; margin:.8rem auto 0; padding:.66rem .85rem; text-align:center; font-size:.61rem; line-height:1.65; color:#c9bca9; background:#181b1c; border:1px dashed #66543b; }
 .org-chart-foot strong { color:#e4c491; }
 @media(max-width:620px) { .org-companies { grid-template-columns:1fr; } .org-chart-foot { font-size:.59rem; } }
+
+/* Four compact Crusading Squads under a single Household veteran cadre. */
+.org-four-squads { width:100%; max-width:70rem; grid-template-columns:repeat(4,minmax(0,1fr)); }
+.org-four-squads .org-node { min-width:0; }
+@media (max-width:960px) { .org-four-squads { grid-template-columns:repeat(2,minmax(0,1fr)); } }
+@media (max-width:620px) { .org-four-squads { grid-template-columns:1fr; } }
